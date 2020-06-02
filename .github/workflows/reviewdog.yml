@@ -12,5 +12,5 @@ jobs:
             - name: eslint
               uses: reviewdog/action-eslint@master
               with:
-                  github_token: ${{ secrets.github_token }}
+                  github_token: ${{ secrets.GITHUB_TOKEN }}
                   reporter: github-check
