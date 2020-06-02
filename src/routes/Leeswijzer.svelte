@@ -1,8 +1,8 @@
 <script>
 	import { docCS } from "../utils/stores";
 
-	const lightID = "1RviMZMeYHdmDn1PIocat5O-BFMtMsQKr";
-	const darkID = "12WbER64Y0T19uG3I5eLBYahQoCiWliw7";
+	const lightID = "1QrKZgdspbpzW1RwyEmT-NK2vtQeewRAt";
+	const darkID = "1jOVPS3qiCQFwJR1-IbzQErQu8lkjWDre";
 
 	$: id = $docCS === "dark" ? darkID : lightID;
 

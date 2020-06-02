@@ -25,36 +25,28 @@
 	</h1>
 
 	<p in:fly="{{ ...animation, delay: (delay += 25) }}">
-		<a href="http://stichtingikwil.nl/" target="_blank">Stichting Ik Wil</a>
-		wist aan het begin van het project niet zo goed wat voor opdracht er zou kunnen worden gegeven aan verschillende
-		Fontys studenten. Vandaar gingen wij,
-		<a href="http://desigaar.com/" target="_blank">De Sigaar,</a>
-		als ICT & Media Design’ers op zoek naar knelpunten en mogelijke problemen die zich bij de stichting voordeden.
+		Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem veniam blanditiis, natus velit nihil in! Ex,
+		maiores blanditiis in impedit quisquam dolor ratione odit ducimus obcaecati itaque suscipit natus sunt!
 	</p>
 
 	<h2 in:fly="{{ ...animation, delay: (delay += 50) }}">Probleemstelling</h2>
 
 	<p in:fly="{{ ...animation, delay: (delay += 25) }}">
-		In de eerste paar weken is er onderzoek gedaan naar welke knelpunten en mogelijke problemen er zich bij de
-		stichting voordeden. Hier kwamen aandachtspunten uit die allemaal terug naar 1 algemeen onderwerp konden worden
-		herleid: duidelijkheid. Zo was er bijvoorbeeld geen duidelijkheid bij voorbijgangers dat de stichting zich op
-		deze nieuwe locatie bevond, geen duidelijkheid bij mensen van wie wat deed bij de stichting en geen
-		duidelijkheid bij deelnemers van welke activiteiten er allemaal werden georganiseerd. Uit dit algemene probleem
-		is ook een hoofdvraag bedacht.
+		Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque perferendis hic minus expedita laboriosam repellat
+		molestias sint, fugiat unde, nemo, ad laborum itaque doloremque. Quidem unde ipsum incidunt consectetur pariatur?
 	</p>
 
 	<h2 in:fly="{{ ...animation, delay: (delay += 50) }}">Hoofdvraag</h2>
 
 	<p in:fly="{{ ...animation, delay: (delay += 25) }}">
-		Hoe kunnen we een middel maken dat Stichting Ik Wil en/of hun bezoekers helpt om duidelijkheid te creëren over
-		diverse informatie binnen de stichting?
+		Goeie vraag 🤷‍♂️
 	</p>
 
 	<h2 in:fly="{{ ...animation, delay: (delay += 50) }}">Doelstelling</h2>
 
 	<p in:fly="{{ ...animation, delay: (delay += 25) }}">
-		Aan het einde van de 9 weken voor het project is er een middel bedacht, getest, ontworpen en gerealiseerd dat de
-		stichting en haar bezoekers duidelijkheid geeft over diverse informatie dat zich binnen de stichting bevindt.
+		Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maiores autem, iusto libero iure, reprehenderit facilis ut
+		qui molestias ullam, fugiat obcaecati animi possimus quibusdam cum mollitia eligendi ad sit ea!
 	</p>
 
 	<hr in:fly="{{ ...animation, delay: (delay += 50) }}" />
@@ -79,26 +71,18 @@
 	</h1>
 
 	<p in:fly="{{ ...animation, delay: (delay += 25) }}">
-		Terugkijkend op het project zijn er aantal verbeterpunten te vinden voor mijzelf. Startend bijvoorbeeld met de
-		communicatie tussen mij en groepsgenoten tijdens mijn afwezigheid. Soms communiceerde ik niet goed wanneer ik
-		weer aanwezig zou zijn. Ook de communicatie tijdens het ontwikkelen van het product ging het een en ander niet
-		helemaal goed. Hierbij ging ik in eigen tijd de code van andere mensen verbeteren om zo een beter product op te
-		kunnen leveren. Dit gebeurde soms wel met de persoon erbij, maar ik was hierbij niet altijd even duidelijk. Zo
-		wordt er de volgende keer ook betere afspraken gemaakt over de definition of done en hoe de workflow eruit ziet
-		op GitHub.
+		Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quo, distinctio fugiat. Nostrum eaque saepe odio ut
+		dignissimos consequatur magnam sequi, mollitia in laboriosam, eum optio vel maxime nisi et eligendi.
 	</p>
 
 	<p in:fly="{{ ...animation, delay: (delay += 25) }}">
-		Het in mijn vrije tijd nog iets doen aan het project moet ik de komende projecten verminderen. Zo heb ik te
-		weinig tijd overgehouden aan het maken van een portfolio voor het halen van het semester. Hiernaast ook het tijd
-		nemen door de week in om sommige projectdagen meer voor mezelf iets aan het portfolio te doen.
+		Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea in iusto inventore corporis amet dolor quidem tempore
+		vitae nostrum nulla! Neque quia quaerat voluptatem optio aliquid, eligendi rem ipsa accusamus?
 	</p>
 
 	<p in:fly="{{ ...animation, delay: (delay += 25) }}">
-		Het samenwerken met de stichting vond ik erg fijn. Niet alleen met Stephan maar ook met de deelnemers bij de
-		stichting. Het wat een unieke kans om op locatie te zitten met de doel- en publieksgroep en samen met hen een
-		product te ontwikkelen. Helaas was het aan het einde van het project niet mogelijk om het product te testen om
-		het te valideren door het COVID-19 virus.
+		Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias illum praesentium sed repellat minima suscipit nihil
+		reprehenderit porro, ex assumenda harum, voluptatem tempora iste. Excepturi repellat doloribus voluptates aut velit.
 	</p>
 </main>
 
