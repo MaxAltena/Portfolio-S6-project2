@@ -51,42 +51,74 @@
 	</ol>
 	<h2>Verantwoording</h2>
 	<p>Vragen zijn opgesteld samen met Dylano Hartman en Mark Hendriks.</p>
-{:else if product.link === 'probleemanalyse'}
+{:else if product.link === 'individuele-analyse'}
 	<h2>Aanleiding</h2>
-	<p>
-
-	</p>
+	<p></p>
 	<h2>Aanpak</h2>
-	<p>
-
-	</p>
+	<p></p>
+	<h2>Uitvoering</h2>
+	<p></p>
 	<h2>Conclusie</h2>
-	<p>
-
-	</p>
+	<p></p>
 	<h2>Verantwoording</h2>
-	<p>
-
-	</p>
+	<p></p>
 {:else if product.link === 'projectplan'}
 	<h2>Aanleiding</h2>
-	<p>
-
-	</p>
+	<p></p>
 	<h2>Aanpak</h2>
-	<p>
-
-	</p>
+	<p></p>
+	<h2>Uitvoering</h2>
+	<p></p>
 	<h2>Conclusie</h2>
-	<p>
-
-	</p>
+	<p></p>
 	<h2>Verantwoording</h2>
-	<p>
-
-	</p>
+	<p></p>
+{:else if product.link === 'concurrentie-analyse'}
+	<h2>Aanleiding</h2>
+	<p></p>
+	<h2>Aanpak</h2>
+	<p></p>
+	<h2>Uitvoering</h2>
+	<p></p>
+	<h2>Conclusie</h2>
+	<p></p>
+	<h2>Verantwoording</h2>
+	<p></p>
+{:else if product.link === 'trend-analyse'}
+	<h2>Aanleiding</h2>
+	<p></p>
+	<h2>Aanpak</h2>
+	<p></p>
+	<h2>Uitvoering</h2>
+	<p></p>
+	<h2>Conclusie</h2>
+	<p></p>
+	<h2>Verantwoording</h2>
+	<p></p>
+{:else if product.link === 'concept-analyse'}
+	<h2>Aanleiding</h2>
+	<p></p>
+	<h2>Aanpak</h2>
+	<p></p>
+	<h2>Uitvoering</h2>
+	<p></p>
+	<h2>Conclusie</h2>
+	<p></p>
+	<h2>Verantwoording</h2>
+	<p></p>
+{:else if product.link === 'business-model-canvas'}
+	<h2>Aanleiding</h2>
+	<p></p>
+	<h2>Aanpak</h2>
+	<p></p>
+	<h2>Uitvoering</h2>
+	<p></p>
+	<h2>Conclusie</h2>
+	<p></p>
+	<h2>Verantwoording</h2>
+	<p></p>
 {:else}
-	<p>Huh, product niet gevonden? Probeer het later nog eens!</p>
+	<p>Huh, product niet gevonden? Probeer het later nog eens of check of dit wel de goede link is!</p>
 {/if}
 
 <style>
@@ -95,9 +127,7 @@
 		color: var(--accent);
 		transition: color var(--transition-speed) var(--transition-timing);
 		font-size: 1.25em;
-	}
-
-	p {
+	}p {
 		margin: 0;
 		margin-top: 0.5rem;
 		margin-bottom: 1rem;
@@ -105,19 +135,13 @@
 		transition: all var(--transition-speed) var(--transition-timing);
 		word-spacing: 1px;
 		text-align: justify;
-	}
-
-	a {
+	}a {
 		cursor: pointer;
 		color: var(--on-primary);
 		transition: color calc(var(--transition-speed) / 2) var(--transition-timing);
-		text-decoration: none;
-
-		padding: 4px;
+		text-decoration: none;	padding: 4px;
 		position: relative;
-	}
-
-	a::after {
+	}a::after {
 		content: "";
 		position: absolute;
 		bottom: 0;
@@ -130,14 +154,10 @@
 		z-index: -1;
 		transition: height calc(var(--transition-speed) / 2) var(--transition-timing),
 			background var(--transition-speed) var(--transition-timing);
-	}
-
-	a:hover::after,
+	}a:hover::after,
 	a:active::after {
 		height: 100%;
-	}
-
-	a:hover,
+	}a:hover,
 	a:active {
 		color: var(--primary);
 	}

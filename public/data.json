@@ -37,8 +37,8 @@
 			"type": "page",
 			"includeInShowcase": true,
 			"emoji": "📄",
-			"title": "Probleemanalyse",
-			"link": "probleemanalyse"
+			"title": "Individuele analyse",
+			"link": "individuele-analyse"
 		},
 		{
 			"type": "page",
@@ -46,6 +46,34 @@
 			"emoji": "📅",
 			"title": "Projectplan",
 			"link": "projectplan"
+		},
+		{
+			"type": "page",
+			"includeInShowcase": true,
+			"emoji": "🏙",
+			"title": "Concurrentie analyse",
+			"link": "concurrentie-analyse"
+		},
+		{
+			"type": "page",
+			"includeInShowcase": true,
+			"emoji": "📈",
+			"title": "Trend analyse",
+			"link": "trend-analyse"
+		},
+		{
+			"type": "page",
+			"includeInShowcase": true,
+			"emoji": "🧠",
+			"title": "Concept analyse",
+			"link": "concept-analyse"
+		},
+		{
+			"type": "page",
+			"includeInShowcase": true,
+			"emoji": "📊",
+			"title": "Business Model Canvas",
+			"link": "business-model-canvas"
 		}
 	]
 }
