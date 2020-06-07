@@ -22,30 +22,37 @@
 	<ol>
 		<li>
 			<strong>Is er al een beeld bij hoe het delen van kennis zou moeten worden weergeven? Zo ja, in wat voor format? Denk hierbij aan Reddit, Stackoverflow, Slack of een forum. Deze informatie is nodig zodat het product niet afwijkt van de verwachtingen van PIDZ.</strong>
+			<br/>
 			<span>De opdrachtgever heeft graag beargumenteerd advies hierover.</span>
 		</li>
 		<li>
 			<strong>Mogen we 10 vragen die gesteld worden door de ZZP’ers? Deze informatie is nodig om er rekening mee te kunnen houden hoelang en wat de context van de vragen zijn en hoe de ZZP'ers op een andere manier het antwoord hadden kunnen beantwoorden.</strong>
+			<br/>
 			<span>Hier had de opdrachtgever geen duidelijk antwoord op. Deze antwoorden zijn tevens gevonden in facebook groepen.</span>
 		</li>
 		<li>
 			<strong>Hoe wordt de communicatie nu gedaan (Whatsapp, mail, andere platformen)? En wat zijn de voor- en nadelen hiervan? Deze informatie is nodig om erachter te komen hoe formeel en op welke manier de informatie met elkaar gecommuniceerd wordt.</strong>
+			<br/>
 			<span>Momenteel is er geen vaste plek waar de ZZP'ers zich bevinden. Er zijn groepen op facebook en bijvoorbeeld zzp-forums.</span>
 		</li>
 		<li>
 			<strong>Hoe breed is het veld waarin de zzp-ers zich bevinden waarvoor de applicatie bedoeld is (mantelzorg, ggz, thuiszorg)? Deze informatie is nodig zodat we weten of we categorieën moeten toevoegen in het ontwerp.</strong>
+			<br/>
 			<span>Er zijn verschillende rollen binnen PIDZ. Zo zijn er helpenden, verzorgenden, verpleegkundigen, gespecialiseerde verpleegkundigen en begeleiders. De opdrachtgevers zijn verpleeg- en verzorgingshuizen, ziekenhuizen, GGZ en de thuis- en gehandicaptenzorg.</span>
 		</li>
 		<li>
 			<strong>In welke maten moet er rekening gehouden worden wat betreft integratie van dit onderdeel binnen het WijPIDZ platform? Deze informatie kunnen we gebruiken omdat dit invloed kan hebben op het ontwerp.</strong>
+			<br/>
 			<span>Er moet aan de PIDZ-huisstijl worden voldaan.</span>
 		</li>
 		<li>
 			<strong>Op welke manier worden inkomsten gegenereerd met dit platform? Voorbeelden en waarom. (reclames, lease, kickback, ads, etc.) Deze informatie kunnen wij gebruiken zodat we kunnen nadenken over een marketing en business aspect over het product.</strong>
+			<br/>
 			<span>De opdrachtgever heeft graag beargumenteerd advies hierover.</span>
 		</li>
 		<li>
 			<strong>Is het platform bedoeld voor alle devices (mobiel, tablet, pc)?</strong>
+			<br/>
 			<span>Ja.</span>
 		</li>
 	</ol>
