@@ -64,6 +64,13 @@
 		{
 			"type": "page",
 			"includeInShowcase": true,
+			"emoji": "💭",
+			"title": "Concept document",
+			"link": "concept-document"
+		},
+		{
+			"type": "page",
+			"includeInShowcase": true,
 			"emoji": "🧠",
 			"title": "Concept analyse",
 			"link": "concept-analyse"
