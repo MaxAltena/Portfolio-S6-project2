@@ -174,7 +174,7 @@
 		color: var(--primary);
 	}
 	ol li {
-		margin: 1em;
+		margin: 1.5em;
 		word-spacing: 1px;
 		line-height: 1.85;
 	}
