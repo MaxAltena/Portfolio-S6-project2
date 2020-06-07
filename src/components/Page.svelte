@@ -127,7 +127,8 @@
 		color: var(--accent);
 		transition: color var(--transition-speed) var(--transition-timing);
 		font-size: 1.25em;
-	}p {
+	}
+	p {
 		margin: 0;
 		margin-top: 0.5rem;
 		margin-bottom: 1rem;
@@ -135,13 +136,15 @@
 		transition: all var(--transition-speed) var(--transition-timing);
 		word-spacing: 1px;
 		text-align: justify;
-	}a {
+	}
+	a {
 		cursor: pointer;
 		color: var(--on-primary);
 		transition: color calc(var(--transition-speed) / 2) var(--transition-timing);
 		text-decoration: none;	padding: 4px;
 		position: relative;
-	}a::after {
+	}
+	a::after {
 		content: "";
 		position: absolute;
 		bottom: 0;
@@ -154,11 +157,18 @@
 		z-index: -1;
 		transition: height calc(var(--transition-speed) / 2) var(--transition-timing),
 			background var(--transition-speed) var(--transition-timing);
-	}a:hover::after,
+	}
+	a:hover::after,
 	a:active::after {
 		height: 100%;
-	}a:hover,
+	}
+	a:hover,
 	a:active {
 		color: var(--primary);
+	}
+	ol li {
+		margin: 1em;
+		word-spacing: 1px;
+		line-height: 1.85;
 	}
 </style>
