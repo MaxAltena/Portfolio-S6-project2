@@ -25,27 +25,32 @@
 	</h1>
 
 	<p in:fly="{{ ...animation, delay: (delay += 25) }}">
-		Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem veniam blanditiis, natus velit nihil in! Ex,
-		maiores blanditiis in impedit quisquam dolor ratione odit ducimus obcaecati itaque suscipit natus sunt!
+		PIDZ1 wil een systeem maken wat diverse problemen van ZZP’ers in de zorg aanpakt. De oplossing hiervoor is WijPIDZ,
+		een platform met verschillende componenten. Vandaar gingen wij, De Sigaar2, als ICT & Media Design’ers op onderzoek
+		uit hoe we deze componenten gingen bedenken en ontwerpen.
 	</p>
 
 	<h2 in:fly="{{ ...animation, delay: (delay += 50) }}">Probleemstelling</h2>
 
 	<p in:fly="{{ ...animation, delay: (delay += 25) }}">
-		Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque perferendis hic minus expedita laboriosam
-		repellat molestias sint, fugiat unde, nemo, ad laborum itaque doloremque. Quidem unde ipsum incidunt consectetur
-		pariatur?
+		Er zijn verschillende problemen die bijdrage aan de behoefte om onderling met elkaar te communiceren en kennis te
+		delen. Denk hierbij aan de volgende punten:
+		Contact met collega’s, verbinding met zorginstellingen en bemiddelaars, dezelfde onderwerpen op social media. Deze
+		problemen zijn uit onderzoek gekomen dat PIDZ heeft gedaan en waarna deze resultaten zijn gedeeld met ons.
 	</p>
 
-	<h2 in:fly="{{ ...animation, delay: (delay += 50) }}">Hoofdvraag</h2>
+	<h2 in:fly="{{ ...animation, delay: (delay += 50) }}">Design challenge</h2>
 
-	<p in:fly="{{ ...animation, delay: (delay += 25) }}">Goeie vraag 🤷‍♂️</p>
+	<p in:fly="{{ ...animation, delay: (delay += 25) }}">Ontwerp een web oplossing voor experts en ZZP’ers in de zorg die
+		aangesloten zijn bij PIDZ om onderling kennis te kunnen delen en in contact te stellen over onderwerpen waar ze hulp
+		bij nodig hebben.</p>
 
 	<h2 in:fly="{{ ...animation, delay: (delay += 50) }}">Doelstelling</h2>
 
 	<p in:fly="{{ ...animation, delay: (delay += 25) }}">
-		Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maiores autem, iusto libero iure, reprehenderit
-		facilis ut qui molestias ullam, fugiat obcaecati animi possimus quibusdam cum mollitia eligendi ad sit ea!
+		Het doel van dit project is om een component te ontwerpen dat in het WijPIDZ platform komt te staan. Dit component
+		zal design guidelines van het PIDZ platform volgen. Verder zal het component moeten worden uitgewerkt en getest zijn
+		als een ontwerp en uiteindelijk als er tijd voor is ook als een product.
 	</p>
 
 	<hr in:fly="{{ ...animation, delay: (delay += 50) }}" />
