@@ -98,18 +98,18 @@
 	<h2>Aanpak</h2>
 	<p></p>
 	<h2>Uitvoering</h2>
-	<p></p>
+	<p>// TODO: <a href="https://docs.google.com/document/d/12m4le8-qWBinYBItjhjvGriKU2Cqo-Csh8lO5WTwolY/">https://docs.google.com/document/d/12m4le8-qWBinYBItjhjvGriKU2Cqo-Csh8lO5WTwolY/</a></p>
 	<h2>Conclusie</h2>
 	<p></p>
 	<h2>Verantwoording</h2>
 	<p>Volledige uitgevoerd door mijzelf.</p>
 {:else if product.link === 'projectplan'}
 	<h2>Aanleiding</h2>
-	<p></p>
+	<p>Om het traject inzichtelijker te maken voor de opdrachtgever en de onderwijsinstelling is er een projectplan gemaakt waarbij het duidelijk moet worden voor iedereen wat er de komende 9 weken zou worden gedaan. Niet alleen handig voor andere, maar ook zeker voor jezelf.</p>
 	<h2>Aanpak</h2>
 	<p></p>
 	<h2>Uitvoering</h2>
-	<p></p>
+	<p>// TODO: <a href="https://drive.google.com/file/d/1W3pQmaGTDD5zAzJbFJD6kxCq9ikSFPGc/">https://drive.google.com/file/d/1W3pQmaGTDD5zAzJbFJD6kxCq9ikSFPGc/</a></p>
 	<h2>Conclusie</h2>
 	<p></p>
 	<h2>Verantwoording</h2>
@@ -138,7 +138,7 @@
 		verschijnen die het product of service uniek kunnen maken waarbij waarde kan worden gecreëerd.
 	</p>
 	<h2>Uitvoering</h2>
-	<p></p>
+	<p>// TODO: <a href="https://docs.google.com/document/d/18JZaBiCVn6ZHDkWyxh91wChU80UD8zaSPcBn2PFQWV8/">https://docs.google.com/document/d/18JZaBiCVn6ZHDkWyxh91wChU80UD8zaSPcBn2PFQWV8/</a></p>
 	<h2>Conclusie</h2>
 	<p>
 		Er is geen directe concurrent met een platform waar er gemakkelijk kennis kan worden gedeeld en waar gebruikers
@@ -166,7 +166,7 @@
 		inzichtelijk te maken.
 	</p>
 	<h2>Uitvoering</h2>
-	<p></p>
+	<p>// TODO: <a href="https://docs.google.com/document/d/1j2EkoYYUr2p0usXtJFqO7shb8kJnwyh7ifczReUiI-E/">https://docs.google.com/document/d/1j2EkoYYUr2p0usXtJFqO7shb8kJnwyh7ifczReUiI-E/</a></p>
 	<h2>Conclusie</h2>
 	<p>
 		Het delen van kennis binnen de zorg zal de komende tijd belangrijker worden. Mede door de huidige COVID-19
@@ -187,7 +187,7 @@
 		zijn er Unique Selling Points om het concept te versterken en te verantwoorden.
 	</p>
 	<h2>Uitvoering</h2>
-	<p></p>
+	<p>// TODO: <a href="https://docs.google.com/document/d/1jMFDnrAp0jCWUPSIuvPXbX0W4njh-pzJl9Ctheyb3tw/">https://docs.google.com/document/d/1jMFDnrAp0jCWUPSIuvPXbX0W4njh-pzJl9Ctheyb3tw/</a></p>
 	<h2>Conclusie</h2>
 	<p>
 		Het concept wordt nog getoetst bij de opdrachtgever maar is nu al erg belangrijk door het gemakkelijk te
@@ -211,7 +211,7 @@
 		concept in de markt te kunnen zetten met een Unique Selling Point.
 	</p>
 	<h2>Uitvoering</h2>
-	<p></p>
+	<p>// TODO: <a href="https://docs.google.com/document/d/1JyDQrD8sY6aFT1PBR2co3qC30n5tnWN3E0L2qCBFAhA/">https://docs.google.com/document/d/1JyDQrD8sY6aFT1PBR2co3qC30n5tnWN3E0L2qCBFAhA/</a></p>
 	<h2>Conclusie</h2>
 	<p>
 		Doordat het concept de problemen van de gebruiker oplost is dat sterke punt ook een van de unieke punten van het
@@ -238,7 +238,7 @@
 		punten op een overzichtelijke manier weer te geven.
 	</p>
 	<h2>Uitvoering</h2>
-	<p></p>
+	<p>// TODO: <a href="https://docs.google.com/document/d/1Jsb8f93tNSEMV5fP18bTphtRvMsXrHlXMTrKnx2ZItA/">https://docs.google.com/document/d/1Jsb8f93tNSEMV5fP18bTphtRvMsXrHlXMTrKnx2ZItA/</a></p>
 	<h2>Conclusie</h2>
 	<p>
 		Duidelijkheid van welke belanghebbende en kosten er zijn met dit product is er nu. Daarnaast was er nog niet
@@ -247,6 +247,61 @@
 		De ZZP’ers in de zorg hebben verschillende vragen en door het product wordt het gemakkelijker om deze vragen te
 		stellen en te beantwoorden op een overzichtelijke manier.
 	</p>
+	<h2>Verantwoording</h2>
+	<p>Volledige uitgevoerd door mijzelf.</p>
+{:else if product.link === 'prototype'}
+	<h2>Aanleiding</h2>
+	<p></p>
+	<h2>Aanpak</h2>
+	<p></p>
+	<h2>Uitvoering</h2>
+	<p></p>
+	<h2>Conclusie</h2>
+	<p></p>
+	<h2>Verantwoording</h2>
+	<p></p>
+{:else if product.link === 'testplan'}
+	<h2>Aanleiding</h2>
+	<p></p>
+	<h2>Aanpak</h2>
+	<p></p>
+	<h2>Uitvoering</h2>
+	<p></p>
+	<h2>Conclusie</h2>
+	<p></p>
+	<h2>Verantwoording</h2>
+	<p></p>
+{:else if product.link === 'testrapport'}
+	<h2>Aanleiding</h2>
+	<p></p>
+	<h2>Aanpak</h2>
+	<p></p>
+	<h2>Uitvoering</h2>
+	<p></p>
+	<h2>Conclusie</h2>
+	<p></p>
+	<h2>Verantwoording</h2>
+	<p></p>
+{:else if product.link === 'marketingplan'}
+	<h2>Aanleiding</h2>
+	<p></p>
+	<h2>Aanpak</h2>
+	<p></p>
+	<h2>Uitvoering</h2>
+	<p></p>
+	<h2>Conclusie</h2>
+	<p></p>
+	<h2>Verantwoording</h2>
+	<p>Volledige uitgevoerd door mijzelf.</p>
+{:else if product.link === 'svelte-workshop'}
+	<h2>Aanleiding</h2>
+	<p></p>
+	<h2>Aanpak</h2>
+	<p></p>
+	<h2>Uitvoering</h2>
+	<p></p>
+	<h2>Conclusie</h2>
+	<p></p>
 	<h2>Verantwoording</h2>
 	<p>Volledige uitgevoerd door mijzelf.</p>
 {:else}
