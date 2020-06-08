@@ -32,21 +32,20 @@
 	<h2 in:fly="{{ ...animation, delay: (delay += 50) }}">Probleemstelling</h2>
 
 	<p in:fly="{{ ...animation, delay: (delay += 25) }}">
-		Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque perferendis hic minus expedita laboriosam repellat
-		molestias sint, fugiat unde, nemo, ad laborum itaque doloremque. Quidem unde ipsum incidunt consectetur pariatur?
+		Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque perferendis hic minus expedita laboriosam
+		repellat molestias sint, fugiat unde, nemo, ad laborum itaque doloremque. Quidem unde ipsum incidunt consectetur
+		pariatur?
 	</p>
 
 	<h2 in:fly="{{ ...animation, delay: (delay += 50) }}">Hoofdvraag</h2>
 
-	<p in:fly="{{ ...animation, delay: (delay += 25) }}">
-		Goeie vraag 🤷‍♂️
-	</p>
+	<p in:fly="{{ ...animation, delay: (delay += 25) }}">Goeie vraag 🤷‍♂️</p>
 
 	<h2 in:fly="{{ ...animation, delay: (delay += 50) }}">Doelstelling</h2>
 
 	<p in:fly="{{ ...animation, delay: (delay += 25) }}">
-		Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maiores autem, iusto libero iure, reprehenderit facilis ut
-		qui molestias ullam, fugiat obcaecati animi possimus quibusdam cum mollitia eligendi ad sit ea!
+		Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maiores autem, iusto libero iure, reprehenderit
+		facilis ut qui molestias ullam, fugiat obcaecati animi possimus quibusdam cum mollitia eligendi ad sit ea!
 	</p>
 
 	<hr in:fly="{{ ...animation, delay: (delay += 50) }}" />
@@ -76,13 +75,14 @@
 	</p>
 
 	<p in:fly="{{ ...animation, delay: (delay += 25) }}">
-		Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea in iusto inventore corporis amet dolor quidem tempore
-		vitae nostrum nulla! Neque quia quaerat voluptatem optio aliquid, eligendi rem ipsa accusamus?
+		Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea in iusto inventore corporis amet dolor quidem
+		tempore vitae nostrum nulla! Neque quia quaerat voluptatem optio aliquid, eligendi rem ipsa accusamus?
 	</p>
 
 	<p in:fly="{{ ...animation, delay: (delay += 25) }}">
-		Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias illum praesentium sed repellat minima suscipit nihil
-		reprehenderit porro, ex assumenda harum, voluptatem tempora iste. Excepturi repellat doloribus voluptates aut velit.
+		Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias illum praesentium sed repellat minima suscipit
+		nihil reprehenderit porro, ex assumenda harum, voluptatem tempora iste. Excepturi repellat doloribus voluptates
+		aut velit.
 	</p>
 </main>
 

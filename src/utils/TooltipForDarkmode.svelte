@@ -8,7 +8,7 @@
 		{ x: 0, y: 0 },
 		{
 			stiffness: 0.2,
-			damping: 0.4
+			damping: 0.4,
 		}
 	);
 
@@ -19,7 +19,7 @@
 	const handlePanMove = event => {
 		coords.update($coords => ({
 			x: $coords.x + event.detail.dx,
-			y: $coords.y + event.detail.dy
+			y: $coords.y + event.detail.dy,
 		}));
 	};
 

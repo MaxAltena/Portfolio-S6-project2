@@ -81,6 +81,41 @@
 			"emoji": "📊",
 			"title": "Business Model Canvas",
 			"link": "business-model-canvas"
+		},
+		{
+			"type": "page",
+			"includeInShowcase": true,
+			"emoji": "",
+			"title": "Prototype (coming soon)",
+			"link": "prototype"
+		},
+		{
+			"type": "page",
+			"includeInShowcase": true,
+			"emoji": "🧪",
+			"title": "Testplan (coming soon)",
+			"link": "testplan"
+		},
+		{
+			"type": "page",
+			"includeInShowcase": true,
+			"emoji": "🧬",
+			"title": "Testrapport (coming soon)",
+			"link": "testrapport"
+		},
+		{
+			"type": "page",
+			"includeInShowcase": true,
+			"emoji": "📉",
+			"title": "Marketingplan (coming soon)",
+			"link": "marketingplan"
+		},
+		{
+			"type": "page",
+			"includeInShowcase": true,
+			"emoji": "🛠",
+			"title": "Svelte workshop (coming soon)",
+			"link": "svelte-workshop"
 		}
 	]
 }
