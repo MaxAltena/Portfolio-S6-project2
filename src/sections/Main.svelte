@@ -25,8 +25,8 @@
 	</h1>
 
 	<p in:fly="{{ ...animation, delay: (delay += 25) }}">
-		PIDZ1 wil een systeem maken wat diverse problemen van ZZP’ers in de zorg aanpakt. De oplossing hiervoor is WijPIDZ,
-		een platform met verschillende componenten. Vandaar gingen wij, De Sigaar2, als ICT & Media Design’ers op onderzoek
+		<a href="https://pidz.nl/" target="_blank">PIDZ</a> wil een systeem maken wat diverse problemen van ZZP’ers in de zorg aanpakt. De oplossing hiervoor is WijPIDZ,
+		een platform met verschillende componenten. Vandaar gingen wij, <a href="http://desigaar.com/" target="_blank">De Sigaar</a>, als ICT & Media Design’ers op onderzoek
 		uit hoe we deze componenten gingen bedenken en ontwerpen.
 	</p>
 
