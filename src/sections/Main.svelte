@@ -75,19 +75,7 @@
 	</h1>
 
 	<p in:fly="{{ ...animation, delay: (delay += 25) }}">
-		Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quo, distinctio fugiat. Nostrum eaque saepe odio ut
-		dignissimos consequatur magnam sequi, mollitia in laboriosam, eum optio vel maxime nisi et eligendi.
-	</p>
-
-	<p in:fly="{{ ...animation, delay: (delay += 25) }}">
-		Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea in iusto inventore corporis amet dolor quidem
-		tempore vitae nostrum nulla! Neque quia quaerat voluptatem optio aliquid, eligendi rem ipsa accusamus?
-	</p>
-
-	<p in:fly="{{ ...animation, delay: (delay += 25) }}">
-		Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias illum praesentium sed repellat minima suscipit
-		nihil reprehenderit porro, ex assumenda harum, voluptatem tempora iste. Excepturi repellat doloribus voluptates
-		aut velit.
+		(coming soon)
 	</p>
 </main>
 
