@@ -373,7 +373,7 @@
 	}
 	a:hover,
 	a:active {
-		color: var(--primary);
+		color: var(--on-accent);
 	}
 	ol li {
 		margin: 1.5em;

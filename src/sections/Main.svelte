@@ -180,6 +180,6 @@
 
 	a:hover,
 	a:active {
-		color: var(--primary);
+		color: var(--on-accent);
 	}
 </style>

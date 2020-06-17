@@ -105,6 +105,6 @@
 	}
 
 	:global(a.link:hover, a.link:active) {
-		color: var(--primary);
+		color: var(--on-accent);
 	}
 </style>

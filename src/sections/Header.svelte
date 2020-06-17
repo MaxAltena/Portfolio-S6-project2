@@ -167,7 +167,7 @@
 
 	nav a:hover,
 	nav a:active {
-		color: var(--primary);
+		color: var(--on-accent);
 	}
 
 	.iconContainer {
