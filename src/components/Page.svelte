@@ -128,7 +128,7 @@
 		<li><strong>Wat doet de concurrentie?</strong> - Met deze vraag wordt er te weten gekomen wat de concurrentie al heeft en wat er mist. Dit zal gedaan worden door middel van een concurrentie analyse. Vanaf dit punt kunnen er concepten worden bedacht die aansluiten bij de gebruiker, door het onderzoek gedaan door PIDZ, en die meer bieden dan wat de concurrent heeft, door het de concurrentie analyse.</li>
 		<li><strong>Wat zijn USP’s van de concepten?</strong> - Om de waarde van het product in te kunnen schatten, zijn de USP’s van de concepten erg belangrijk te analyseren. Hierbij kan ook al gekeken worden naar een mogelijk business model.</li>
 		<li><strong>Wat gaat het product inhouden?</strong> - Om te weten wat het product is, moet er gekeken worden wat het product inhoudt door middel van proof of concepts. Hiermee kan er een design specificatie worden gemaakt waarmee er prototypes kunnen worden gemaakt.</li>
-		<li><strong>Is het product duidelijk voor de gebruiker?</strong> - Om te verifiëren of het product zinvol is worden de prototypes getest door middel van gebruikerstesten. Hieruit komt een testrapport waarmee er verbeteringen kunnen worden doorgevoerd en een advies kan worden gegeven over mogelijk vervolgstappen.	/li>
+		<li><strong>Is het product duidelijk voor de gebruiker?</strong> - Om te verifiëren of het product zinvol is worden de prototypes getest door middel van gebruikerstesten. Hieruit komt een testrapport waarmee er verbeteringen kunnen worden doorgevoerd en een advies kan worden gegeven over mogelijk vervolgstappen.</li>
 	</ul>
 	<h2>Verantwoording</h2>
 	<p>
@@ -157,7 +157,33 @@
 		verschijnen die het product of service uniek kunnen maken waarbij waarde kan worden gecreëerd.
 	</p>
 	<h2>Uitvoering</h2>
-	<p></p>
+	<p>Begonnen met het kijken naar punten om te vergelijken:</p>
+	<ul>
+		<li><strong>Kosten</strong> - Mogelijke kosten voor het product moeten worden afgestemd op de behoefte van de gebruiker en de functionaliteit van het product.</li>
+		<li><strong>Gebruiksvriendelijkheid</strong> - Gebruiksvriendelijkheid van het product is belangrijk voor het gebruik door de gebruiker omdat een product dat gemakkelijk in gebruik is vaker gebruik wordt.
+		</li>
+		<li><strong>Vorm</strong> - Zijn alle functionaliteiten die de gebruiker wil en verwacht verwerkt in het product? Denk hierbij aan gemakkelijk contact leggen met andere gebruikers.
+		</li>
+		<li><strong>Beschikbaarheid</strong> - Beschikbaarheid van het platform is handig voor de gebruiker, dan hoeft deze niet op een bepaald medium te zitten. Denk hierbij aan desktop, tablet en mobiel.
+		</li>
+		<li><strong>Delen van kennis
+		</strong> - Het delen van kennis van de gebruiker en mogelijk vragen van de gebruiker moeten gemakkelijk kunnen worden beantwoord.</li>
+		<li><strong>Contact met andere
+		</strong> - Het starten van het contact en het in contact blijven met andere is erg belangrijk.
+	</li>
+	</ul>
+	<p>Er is daarna gezocht naar directe en indirecte concurrenten, waar de volgende zijn uitgekomen:</p>
+	<strong>Directe concurrenten</strong>
+	<ul>
+		<li><strong>Zorgzuster</strong> - biedt hetzelfde aan als PIDZ, maar dan altijd in teams. Hierdoor is het een product wat in dezelfde soort markt zit als het product voor deze analyse.</li>
+		<li><strong>PZP</strong> - heeft een product waarbij er een community is. Hiermee worden ZZP’ers samengebundeld om vragen en problemen op te lossen.</li>
+	</ul>
+	<strong>Indirecte concurrenten</strong>
+	<ul>
+		<li><strong>WhatsApp</strong> - er kan in contact worden gekomen met elkaar. Het richt zich niet zoals de directe concurrenten om ZZP’ers in de zorg.</li>
+		<li><strong>Reddit</strong> - is een platform waarbij het in contact staan met elkaar en het delen van kennis centraal staat. Hiermee is het een indirecte concurrent van het product.</li>
+		<li><strong>StackExchange</strong> - is een Q&A community waarbij er altijd wel een antwoord wordt gegeven op je vraag door een expert. Hierdoor het platform een concurrent in het delen van kennis en de verificatie van de antwoorden op vragen.</li>
+	</ul>
 	<h2>Conclusie</h2>
 	<p>
 		Er is geen directe concurrent met een platform waar er gemakkelijk kennis kan worden gedeeld en waar gebruikers
@@ -167,11 +193,13 @@
 		worden voor de behoeftes van de gebruikers. Er zal dus wel gekeken kunnen worden naar hoe deze platformen deze
 		functionaliteiten hebben verwerkt om inspiratie op te kunnen doen.
 	</p>
+	<p>In een notendop de onderzoeksaspecten en resultaten inzien kan door middel van de <a href="https://drive.google.com/file/d/13YPzYN2J49ch8vXTIgwbCr7yEy55Re1Q/" target="_blank">infographic</a>:</p>
+	<Image imgURL="https://lh4.googleusercontent.com/oRGjjVu19bn7luDRWVR6FCtJjS0VkbV8t67yZUiOjZFLbnphpfes7g0Y65k3tAqcp3rdiAkC1c07-tBa3-Cg=w980-h969-rw" imgALT="Concurrentie analyse infographic" linkURL="https://drive.google.com/file/d/13YPzYN2J49ch8vXTIgwbCr7yEy55Re1Q/" />
 	<h2>Verantwoording</h2>
 	<p>Volledige uitgevoerd door mijzelf.</p>
 	<!-- Document: https://docs.google.com/document/d/18JZaBiCVn6ZHDkWyxh91wChU80UD8zaSPcBn2PFQWV8/ -->
 	<!-- Spreadsheet: https://docs.google.com/spreadsheets/d/1DFWv3wQLvRPX58YyXRXndHF0lrpIogyqougcH7v60G0/ -->
-	<!-- Product:  -->
+	<!-- Product: https://drive.google.com/file/d/13YPzYN2J49ch8vXTIgwbCr7yEy55Re1Q/ -->
 {:else if product.link === 'trend-analyse'}
 	<h2>Aanleiding</h2>
 	<p>
@@ -199,6 +227,7 @@
 	</p>
 	<h2>Verantwoording</h2>
 	<p>Volledige uitgevoerd door mijzelf.</p>
+	<!-- Document: https://docs.google.com/document/d/1j2EkoYYUr2p0usXtJFqO7shb8kJnwyh7ifczReUiI-E/ -->
 {:else if product.link === 'concept-document'}
 	<h2>Aanleiding</h2>
 	<p>Dit document is gemaakt om het snel gemaakte proof of concept te verduidelijken voor de opdrachtgever.</p>
@@ -219,6 +248,7 @@
 	</p>
 	<h2>Verantwoording</h2>
 	<p>Volledige uitgevoerd door mijzelf.</p>
+	<!-- Document: https://docs.google.com/document/d/1jMFDnrAp0jCWUPSIuvPXbX0W4njh-pzJl9Ctheyb3tw/ -->
 {:else if product.link === 'concept-analyse'}
 	<h2>Aanleiding</h2>
 	<p>
@@ -245,6 +275,7 @@
 	</p>
 	<h2>Verantwoording</h2>
 	<p>Volledige uitgevoerd door mijzelf.</p>
+	<!-- Document: https://docs.google.com/document/d/1JyDQrD8sY6aFT1PBR2co3qC30n5tnWN3E0L2qCBFAhA/ -->
 {:else if product.link === 'business-model-canvas'}
 	<h2>Aanleiding</h2>
 	<p>
