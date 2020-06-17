@@ -1,4 +1,6 @@
 <script>
+	import Image from "./Image.svelte";
+
 	export let product;
 </script>
 
@@ -119,7 +121,7 @@
 	<p>Door ieder groepslid een eigen stukje te laten doen kan het document sneller gerealiseerd worden. Hierna wordt er met de groep overheen gekeken om zo voor iedereen duidelijke te krijgen wat het project gaat inhouden en hoe er te werk wordt gegaan.</p>
 	<h2>Uitvoering</h2>
 	<p>Ik ben bezig geweest met een klein stukje over het bedrijf waarna ik verder ben gegaan aan de onderzoeksvragen en tussenproducten van het project. Daarna ben ik nog bezig geweest met het opschrijven van mogelijk risico's bij dit project voortvloeiend vanuit de opdrachtgever (PIDZ) en de COVID-19 situatie. Als laatste is er een scope gemaakt om aan te geven wat er wel en niet wordt gedaan. Uiteindelijk heb ik nog een document gemaakt die presenteerbaar is aan de opdrachtgever en andere belanghebbende en deze is <a href="https://drive.google.com/file/d/1W3pQmaGTDD5zAzJbFJD6kxCq9ikSFPGc/" target="_blank">hier</a> te vinden.</p>
-	<a href="https://drive.google.com/file/d/1W3pQmaGTDD5zAzJbFJD6kxCq9ikSFPGc/" target="_blank"><img src="https://i.gyazo.com/17c2a92ba8880c5d0814fe70da46102c.jpg" alt="Projectplan document voorpagina"></a>
+	<Image imgURL="https://i.gyazo.com/17c2a92ba8880c5d0814fe70da46102c.jpg" imgALT="Projectplan document" linkURL="https://drive.google.com/file/d/1W3pQmaGTDD5zAzJbFJD6kxCq9ikSFPGc/" />
 	<h2>Conclusie</h2>
 	<p>De opdracht, probleemstelling en het doel van het project zijn redelijk hetzelfde gebleven als in de <a href="https://portfolio.maxaltena.com/S6/project2/individuele-analyse/">individuele analyse</a>. De onderzoeksvragen en de tussenproducten zijn daarnaast wel wat bijgescherpt door de behoefte van de opdrachtgever waar de volgende punten uitkwamen:</p>
 	<ul>
@@ -335,7 +337,6 @@
 		transition: color var(--transition-speed) var(--transition-timing);
 		font-size: 1.25em;
 	}
-
 	p {
 		margin: 0;
 		margin-top: 0.5rem;
@@ -375,7 +376,7 @@
 	a:active {
 		color: var(--on-accent);
 	}
-	ol li {
+	 li {
 		margin: 1.5em;
 		word-spacing: 1px;
 		line-height: 1.85;
