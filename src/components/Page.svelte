@@ -193,8 +193,8 @@
 		worden voor de behoeftes van de gebruikers. Er zal dus wel gekeken kunnen worden naar hoe deze platformen deze
 		functionaliteiten hebben verwerkt om inspiratie op te kunnen doen.
 	</p>
-	<p>In een notendop de onderzoeksaspecten en resultaten inzien kan door middel van de <a href="https://drive.google.com/file/d/13YPzYN2J49ch8vXTIgwbCr7yEy55Re1Q/" target="_blank">infographic</a>:</p>
-	<Image imgURL="https://lh4.googleusercontent.com/oRGjjVu19bn7luDRWVR6FCtJjS0VkbV8t67yZUiOjZFLbnphpfes7g0Y65k3tAqcp3rdiAkC1c07-tBa3-Cg=w980-h969-rw" imgALT="Concurrentie analyse infographic" linkURL="https://drive.google.com/file/d/13YPzYN2J49ch8vXTIgwbCr7yEy55Re1Q/" />
+	<!-- <p>In een notendop de onderzoeksaspecten en resultaten inzien kan door middel van de <a href="https://drive.google.com/file/d/13YPzYN2J49ch8vXTIgwbCr7yEy55Re1Q/" target="_blank">infographic</a>:</p>
+	<Image imgURL="https://lh4.googleusercontent.com/oRGjjVu19bn7luDRWVR6FCtJjS0VkbV8t67yZUiOjZFLbnphpfes7g0Y65k3tAqcp3rdiAkC1c07-tBa3-Cg=w980-h969-rw" imgALT="Concurrentie analyse infographic" linkURL="https://drive.google.com/file/d/13YPzYN2J49ch8vXTIgwbCr7yEy55Re1Q/" /> -->
 	<h2>Verantwoording</h2>
 	<p>Volledige uitgevoerd door mijzelf.</p>
 	<!-- Document: https://docs.google.com/document/d/18JZaBiCVn6ZHDkWyxh91wChU80UD8zaSPcBn2PFQWV8/ -->
@@ -408,7 +408,7 @@
 		color: var(--on-accent);
 	}
 	 li {
-		margin: 1.5em;
+		margin: 0.5em;
 		word-spacing: 1px;
 		line-height: 1.85;
 	}
