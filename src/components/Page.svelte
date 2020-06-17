@@ -92,31 +92,48 @@
 	</ol>
 	<h2>Verantwoording</h2>
 	<p>Vragen zijn opgesteld samen met Dylano Hartman en Mark Hendriks.</p>
+	<!-- Document: https://docs.google.com/document/d/1B72THVl9YhjZ31yR2HV3yRjraJ3dRZxR8hy1BSFYTHg/ -->
 {:else if product.link === 'individuele-analyse'}
 	<h2>Aanleiding</h2>
-	<p></p>
+	<p>Om de opdracht goed te analyseren is er een individuele analyse gemaakt. Zo konden gedachtes van mijn hoofd naar (digitaal) papier worden geschreven om deze te vast te leggen. Dit heeft ieder groepslid individueel gedaan om zo onze eigen kijk op de opdracht op te schrijven.</p>
 	<h2>Aanpak</h2>
-	<p></p>
+	<p>Om een goede eerste probleemanalyse te doen moet er gekeken worden naar: de opdracht, de probleemstelling, het doel, de onderzoeksaspecten, de uitvoering van het project, de aanpak van het project, het gewenste eindresultaat en de oplossing voor het probleem.</p>
 	<h2>Uitvoering</h2>
-	<p>// TODO: <a href="https://docs.google.com/document/d/12m4le8-qWBinYBItjhjvGriKU2Cqo-Csh8lO5WTwolY/">https://docs.google.com/document/d/12m4le8-qWBinYBItjhjvGriKU2Cqo-Csh8lO5WTwolY/</a></p>
+	<p>Ik ben begonnen met de opzet te pakken van het vorige project, dus de vragen zoals; wat is de probleemstelling, wat is het doel en wat wordt de aanpak van het project. Deze beantwoord en een verhaaltje van gemaakt om het een doorlopend verhaal te maken.</p>
 	<h2>Conclusie</h2>
-	<p></p>
+	<p>Er zijn verschillende problemen die bijdrage aan de behoefte om onderling met elkaar te communiceren en kennis te delen. Denk hierbij aan de volgende punten:</p>
+	<ul>
+		<li>Contact met collega’s. ZZP’ers voelen zich weinig verbonden met andere ZZP’ers. Ze zoeken dit wel, bijvoorbeeld door elkaar te treffen op sociale media, WhatsApp-groepen, netwerkborrels of anderszin.</li>
+		<li>Verbinding met zorginstellingen en bemiddelaars. ZZP’ers voelen zich niet aangesloten bij een team.</li>
+		<li>Dezelfde onderwerpen. Op sociale media zoals Facebook(groepen) gaat het vaak om steeds dezelfde onderwerpen, zoals de opstart van een bedrijf.</li>
+	</ul>
+	<p>Deze problemen zijn uit onderzoek gekomen dat PIDZ heeft gedaan en waarna deze resultaten zijn gedeeld met ons.</p>
+	<p>Het doel van dit project is om een component te ontwerpen dat in het WijPIDZ platform komt te staan. Dit component zal design guidelines van het PIDZ platform volgen. Verder zal het component moeten worden uitgewerkt en getest zijn als een ontwerp en uiteindelijk als er tijd voor is ook als een product.</p>
 	<h2>Verantwoording</h2>
 	<p>Volledige uitgevoerd door mijzelf.</p>
+	<!-- Document: https://docs.google.com/document/d/12m4le8-qWBinYBItjhjvGriKU2Cqo-Csh8lO5WTwolY/ -->
 {:else if product.link === 'projectplan'}
 	<h2>Aanleiding</h2>
-	<p>Om het traject inzichtelijker te maken voor de opdrachtgever en de onderwijsinstelling is er een projectplan gemaakt waarbij het duidelijk moet worden voor iedereen wat er de komende 9 weken zou worden gedaan. Niet alleen handig voor andere, maar ook zeker voor jezelf.</p>
+	<p>Om het traject inzichtelijker te maken voor de opdrachtgever en de onderwijsinstelling is er een projectplan gemaakt waarbij het duidelijk moet worden voor iedereen wat er de komende 9 weken zou worden gedaan. Niet alleen handig voor andere, maar ook zeker voor jezelf en je groep.</p>
 	<h2>Aanpak</h2>
-	<p></p>
+	<p>Door ieder groepslid een eigen stukje te laten doen kan het document sneller gerealiseerd worden. Hierna wordt er met de groep overheen gekeken om zo voor iedereen duidelijke te krijgen wat het project gaat inhouden en hoe er te werk wordt gegaan.</p>
 	<h2>Uitvoering</h2>
-	<p>// TODO: <a href="https://drive.google.com/file/d/1W3pQmaGTDD5zAzJbFJD6kxCq9ikSFPGc/">https://drive.google.com/file/d/1W3pQmaGTDD5zAzJbFJD6kxCq9ikSFPGc/</a></p>
+	<p>Ik ben bezig geweest met een klein stukje over het bedrijf waarna ik verder ben gegaan aan de onderzoeksvragen en tussenproducten van het project. Daarna ben ik nog bezig geweest met het opschrijven van mogelijk risico's bij dit project voortvloeiend vanuit de opdrachtgever (PIDZ) en de COVID-19 situatie. Als laatste is er een scope gemaakt om aan te geven wat er wel en niet wordt gedaan. Uiteindelijk heb ik nog een document gemaakt die presenteerbaar is aan de opdrachtgever en andere belanghebbende en deze is <a href="https://drive.google.com/file/d/1W3pQmaGTDD5zAzJbFJD6kxCq9ikSFPGc/" target="_blank">hier</a> te vinden.</p>
+	<a href="https://drive.google.com/file/d/1W3pQmaGTDD5zAzJbFJD6kxCq9ikSFPGc/" target="_blank"><img src="https://i.gyazo.com/17c2a92ba8880c5d0814fe70da46102c.jpg" alt="Projectplan document voorpagina"></a>
 	<h2>Conclusie</h2>
-	<p></p>
+	<p>De opdracht, probleemstelling en het doel van het project zijn redelijk hetzelfde gebleven als in de <a href="https://portfolio.maxaltena.com/S6/project2/individuele-analyse/">individuele analyse</a>. De onderzoeksvragen en de tussenproducten zijn daarnaast wel wat bijgescherpt door de behoefte van de opdrachtgever waar de volgende punten uitkwamen:</p>
+	<ul>
+		<li><strong>Wat doet de concurrentie?</strong> - Met deze vraag wordt er te weten gekomen wat de concurrentie al heeft en wat er mist. Dit zal gedaan worden door middel van een concurrentie analyse. Vanaf dit punt kunnen er concepten worden bedacht die aansluiten bij de gebruiker, door het onderzoek gedaan door PIDZ, en die meer bieden dan wat de concurrent heeft, door het de concurrentie analyse.</li>
+		<li><strong>Wat zijn USP’s van de concepten?</strong> - Om de waarde van het product in te kunnen schatten, zijn de USP’s van de concepten erg belangrijk te analyseren. Hierbij kan ook al gekeken worden naar een mogelijk business model.</li>
+		<li><strong>Wat gaat het product inhouden?</strong> - Om te weten wat het product is, moet er gekeken worden wat het product inhoudt door middel van proof of concepts. Hiermee kan er een design specificatie worden gemaakt waarmee er prototypes kunnen worden gemaakt.</li>
+		<li><strong>Is het product duidelijk voor de gebruiker?</strong> - Om te verifiëren of het product zinvol is worden de prototypes getest door middel van gebruikerstesten. Hieruit komt een testrapport waarmee er verbeteringen kunnen worden doorgevoerd en een advies kan worden gegeven over mogelijk vervolgstappen.	/li>
+	</ul>
 	<h2>Verantwoording</h2>
 	<p>
-		Gemaakt samen met Dylano Hartman en Mark Hendriks. Ontwerp van document en uiteindelijke oplevering gedaan door
-		mijzelf.
+		Gemaakt samen met Dylano Hartman en Mark Hendriks. Waar ik aan heb gewerkt: "Het bedrijf", "Onderzoeksvragen en tussenproducten", "Risico's" en "Scope". Ontwerp van document en uiteindelijke oplevering gedaan door	mijzelf.
 	</p>
+	<!-- Document: https://docs.google.com/document/d/1_JQpZ9trWjq_z4eL6in5pw7py-tElKngKVSJSM3Tukk/ -->
+	<!-- Product: https://drive.google.com/file/d/1W3pQmaGTDD5zAzJbFJD6kxCq9ikSFPGc/ -->
 {:else if product.link === 'concurrentie-analyse'}
 	<h2>Aanleiding</h2>
 	<p>
@@ -138,7 +155,7 @@
 		verschijnen die het product of service uniek kunnen maken waarbij waarde kan worden gecreëerd.
 	</p>
 	<h2>Uitvoering</h2>
-	<p>// TODO: <a href="https://docs.google.com/document/d/18JZaBiCVn6ZHDkWyxh91wChU80UD8zaSPcBn2PFQWV8/">https://docs.google.com/document/d/18JZaBiCVn6ZHDkWyxh91wChU80UD8zaSPcBn2PFQWV8/</a></p>
+	<p></p>
 	<h2>Conclusie</h2>
 	<p>
 		Er is geen directe concurrent met een platform waar er gemakkelijk kennis kan worden gedeeld en waar gebruikers
@@ -150,6 +167,9 @@
 	</p>
 	<h2>Verantwoording</h2>
 	<p>Volledige uitgevoerd door mijzelf.</p>
+	<!-- Document: https://docs.google.com/document/d/18JZaBiCVn6ZHDkWyxh91wChU80UD8zaSPcBn2PFQWV8/ -->
+	<!-- Spreadsheet: https://docs.google.com/spreadsheets/d/1DFWv3wQLvRPX58YyXRXndHF0lrpIogyqougcH7v60G0/ -->
+	<!-- Product:  -->
 {:else if product.link === 'trend-analyse'}
 	<h2>Aanleiding</h2>
 	<p>
