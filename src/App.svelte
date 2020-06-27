@@ -14,16 +14,16 @@
 	export let url = "";
 	export let basepath = process.env.isProd ? "S6/project2" : "";
 
-	fetch("https://portfolio.maxaltena.com/S6/project2/data.json").then(res =>
-		res.json().then(data => {
-			$name = data.name;
-			$semester = data.semester;
-			$firstName = data.firstName;
-			$lastName = data.lastName;
-			$fullName = `${data.firstName} ${data.lastName}`;
-			$products = data.products;
-		})
-	);
+	fetch("https://portfolio.maxaltena.com/S6/project2/data.json")
+		.then(res => res.json())
+		.then(data => {
+			name.set(data.name);
+			semester.set(data.semester);
+			firstName.set(data.firstName);
+			lastName.set(data.lastName);
+			fullName.set(`${data.firstName} ${data.lastName}`);
+			products.set(data.products);
+		});
 
 	$: document.title = `${$name} ${$semester} – ${$fullName}`;
 </script>

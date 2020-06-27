@@ -276,7 +276,7 @@
 	<h2>Verantwoording</h2>
 	<p>Volledige uitgevoerd door mijzelf.</p>
 	<!-- Document: https://docs.google.com/document/d/1JyDQrD8sY6aFT1PBR2co3qC30n5tnWN3E0L2qCBFAhA/ -->
-{:else if product.link === 'business-model-canvas'}
+{:else if product.link === 'business-model'}
 	<h2>Aanleiding</h2>
 	<p>
 		Om de opdrachtgever en andere belanghebbende van het concept en het uiteindelijke product duidelijk te maken wat
@@ -302,7 +302,7 @@
 	</p>
 	<h2>Verantwoording</h2>
 	<p>Volledige uitgevoerd door mijzelf.</p>
-{:else if product.link === 'prototype'}
+{:else if product.link === 'ontwerpen'}
 	<h2>Aanleiding</h2>
 	<p></p>
 	<h2>Aanpak</h2>
@@ -313,7 +313,7 @@
 	<p></p>
 	<h2>Verantwoording</h2>
 	<p></p>
-{:else if product.link === 'testplan'}
+{:else if product.link === 'usability-test'}
 	<h2>Aanleiding</h2>
 	<p></p>
 	<h2>Aanpak</h2>
@@ -324,28 +324,6 @@
 	<p></p>
 	<h2>Verantwoording</h2>
 	<p></p>
-{:else if product.link === 'testrapport'}
-	<h2>Aanleiding</h2>
-	<p></p>
-	<h2>Aanpak</h2>
-	<p></p>
-	<h2>Uitvoering</h2>
-	<p></p>
-	<h2>Conclusie</h2>
-	<p></p>
-	<h2>Verantwoording</h2>
-	<p></p>
-{:else if product.link === 'marketingplan'}
-	<h2>Aanleiding</h2>
-	<p></p>
-	<h2>Aanpak</h2>
-	<p></p>
-	<h2>Uitvoering</h2>
-	<p></p>
-	<h2>Conclusie</h2>
-	<p></p>
-	<h2>Verantwoording</h2>
-	<p>Volledige uitgevoerd door mijzelf.</p>
 {:else if product.link === 'svelte-workshop'}
 	<h2>Aanleiding</h2>
 	<p></p>
@@ -356,7 +334,40 @@
 	<h2>Conclusie</h2>
 	<p></p>
 	<h2>Verantwoording</h2>
-	<p>Volledige uitgevoerd door mijzelf.</p>
+	<p></p>
+{:else if product.link === 'communicatiestrategie'}
+	<h2>Aanleiding</h2>
+	<p></p>
+	<h2>Aanpak</h2>
+	<p></p>
+	<h2>Uitvoering</h2>
+	<p></p>
+	<h2>Conclusie</h2>
+	<p></p>
+	<h2>Verantwoording</h2>
+	<p></p>
+{:else if product.link === 'peer-feedback'}
+	<h2>Aanleiding</h2>
+	<p></p>
+	<h2>Aanpak</h2>
+	<p></p>
+	<h2>Uitvoering</h2>
+	<p></p>
+	<h2>Conclusie</h2>
+	<p></p>
+	<h2>Verantwoording</h2>
+	<p></p>
+{:else if product.link === 'adviesrapport'}
+	<h2>Aanleiding</h2>
+	<p></p>
+	<h2>Aanpak</h2>
+	<p></p>
+	<h2>Uitvoering</h2>
+	<p></p>
+	<h2>Conclusie</h2>
+	<p></p>
+	<h2>Verantwoording</h2>
+	<p></p>
 {:else}
 	<p>Huh, product niet gevonden? Probeer het later nog eens of check of dit wel de goede link is!</p>
 {/if}

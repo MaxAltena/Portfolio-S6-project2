@@ -51,71 +51,78 @@
 			"type": "page",
 			"includeInShowcase": true,
 			"emoji": "🏙",
-			"title": "Concurrentie analyse",
+			"title": "Concurrentie analyse (1/2)",
 			"link": "concurrentie-analyse"
 		},
 		{
 			"type": "page",
 			"includeInShowcase": true,
 			"emoji": "📈",
-			"title": "Trend analyse",
+			"title": "Trend analyse (1/2)",
 			"link": "trend-analyse"
 		},
 		{
 			"type": "page",
 			"includeInShowcase": true,
 			"emoji": "💭",
-			"title": "Concept document",
+			"title": "Concept document (1/2)",
 			"link": "concept-document"
 		},
 		{
 			"type": "page",
 			"includeInShowcase": true,
 			"emoji": "🧠",
-			"title": "Concept analyse",
+			"title": "Concept analyse (1/2)",
 			"link": "concept-analyse"
 		},
 		{
 			"type": "page",
 			"includeInShowcase": true,
 			"emoji": "📊",
-			"title": "Business Model Canvas",
-			"link": "business-model-canvas"
+			"title": "Business Model (1/2)",
+			"link": "business-model"
 		},
 		{
 			"type": "page",
 			"includeInShowcase": true,
-			"emoji": "💣",
-			"title": "Prototype (coming soon)",
-			"link": "prototype"
+			"emoji": "🖌",
+			"title": "Ontwerpen (0/2)",
+			"link": "ontwerpen"
 		},
 		{
 			"type": "page",
 			"includeInShowcase": true,
 			"emoji": "🧪",
-			"title": "Testplan (coming soon)",
-			"link": "testplan"
-		},
-		{
-			"type": "page",
-			"includeInShowcase": true,
-			"emoji": "🧬",
-			"title": "Testrapport (coming soon)",
-			"link": "testrapport"
-		},
-		{
-			"type": "page",
-			"includeInShowcase": true,
-			"emoji": "📉",
-			"title": "Marketingplan (coming soon)",
-			"link": "marketingplan"
+			"title": "Usability test (0/2)",
+			"link": "usability-test"
 		},
 		{
 			"type": "page",
 			"includeInShowcase": true,
 			"emoji": "🛠",
-			"title": "Svelte workshop (coming soon)",
+			"title": "Svelte workshop (0/2)",
 			"link": "svelte-workshop"
+		},
+		{
+			"type": "page",
+			"includeInShowcase": true,
+			"emoji": "🗣️",
+			"title": "Communicatiestrategie (0/2)",
+			"link": "communicatiestrategie"
+		},
+		{
+			"type": "page",
+			"includeInShowcase": true,
+			"emoji": "👥",
+			"title": "Peer feedback (0/2)",
+			"link": "peer-feedback"
+		},
+		{
+			"type": "page",
+			"includeInShowcase": true,
+			"emoji": "🧾",
+			"title": "Adviesrapport (0/2)",
+			"link": "adviesrapport"
 		}
 	]
 }
