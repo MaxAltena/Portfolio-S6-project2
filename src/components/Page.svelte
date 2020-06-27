@@ -120,7 +120,7 @@
 	<h2>Aanpak</h2>
 	<p>Door ieder groepslid een eigen stukje te laten doen kan het document sneller gerealiseerd worden. Hierna wordt er met de groep overheen gekeken om zo voor iedereen duidelijke te krijgen wat het project gaat inhouden en hoe er te werk wordt gegaan.</p>
 	<h2>Uitvoering</h2>
-	<p>Ik ben bezig geweest met een klein stukje over het bedrijf waarna ik verder ben gegaan aan de onderzoeksvragen en tussenproducten van het project. Daarna ben ik nog bezig geweest met het opschrijven van mogelijk risico's bij dit project voortvloeiend vanuit de opdrachtgever (PIDZ) en de COVID-19 situatie. Als laatste is er een scope gemaakt om aan te geven wat er wel en niet wordt gedaan. Uiteindelijk heb ik nog een document gemaakt die presenteerbaar is aan de opdrachtgever en andere belanghebbende en deze is <a href="https://drive.google.com/file/d/1W3pQmaGTDD5zAzJbFJD6kxCq9ikSFPGc/" target="_blank">hier</a> te vinden.</p>
+	<p>Ik ben bezig geweest met een klein stukje over het bedrijf waarna ik verder ben gegaan aan de onderzoeksvragen en tussenproducten van het project. Daarna ben ik nog bezig geweest met het opschrijven van mogelijk risico's bij dit project voortvloeiend vanuit de opdrachtgever (PIDZ) en de COVID-19 situatie. Als laatste is er een scope gemaakt om aan te geven wat er wel en niet wordt gedaan. Uiteindelijk heb ik nog een document gemaakt die presenteerbaar is aan de opdrachtgever en andere belanghebbende en deze is <a href="https://drive.google.com/file/d/1W3pQmaGTDD5zAzJbFJD6kxCq9ikSFPGc/" target="_blank" rel="noopener">hier</a> te vinden.</p>
 	<Image imgURL="https://i.gyazo.com/17c2a92ba8880c5d0814fe70da46102c.jpg" imgALT="Projectplan document" linkURL="https://drive.google.com/file/d/1W3pQmaGTDD5zAzJbFJD6kxCq9ikSFPGc/" />
 	<h2>Conclusie</h2>
 	<p>De opdracht, probleemstelling en het doel van het project zijn redelijk hetzelfde gebleven als in de <a href="https://portfolio.maxaltena.com/S6/project2/individuele-analyse/">individuele analyse</a>. De onderzoeksvragen en de tussenproducten zijn daarnaast wel wat bijgescherpt door de behoefte van de opdrachtgever waar de volgende punten uitkwamen:</p>
@@ -193,7 +193,7 @@
 		worden voor de behoeftes van de gebruikers. Er zal dus wel gekeken kunnen worden naar hoe deze platformen deze
 		functionaliteiten hebben verwerkt om inspiratie op te kunnen doen.
 	</p>
-	<p>Om de informatie gemakkelijk weer te geven is er een <a href="https://docs.google.com/spreadsheets/d/1DFWv3wQLvRPX58YyXRXndHF0lrpIogyqougcH7v60G0/" target="_blank">excel sheet</a> voor de analyse en een <a href="https://drive.google.com/file/d/13YPzYN2J49ch8vXTIgwbCr7yEy55Re1Q/" target="_blank">infographic</a> voor de onderzoeksaspecte en de conclusie gemaakt.</p>
+	<p>Om de informatie gemakkelijk weer te geven is er een <a href="https://docs.google.com/spreadsheets/d/1DFWv3wQLvRPX58YyXRXndHF0lrpIogyqougcH7v60G0/" target="_blank" rel="noopener">excel sheet</a> voor de analyse en een <a href="https://drive.google.com/file/d/13YPzYN2J49ch8vXTIgwbCr7yEy55Re1Q/" target="_blank" rel="noopener">infographic</a> voor de onderzoeksaspecte en de conclusie gemaakt.</p>
 	<Image imgURL="https://i.gyazo.com/5b8a9041b08f0b5b28d3ca754cc1645f.png" imgALT="Concurrentie analyse excel sheet" linkURL="https://docs.google.com/spreadsheets/d/1DFWv3wQLvRPX58YyXRXndHF0lrpIogyqougcH7v60G0/" />
 	<Image imgURL="https://i.gyazo.com/48d11c01c2aa6e93b830f11bdc81f98f.jpg" imgALT="Concurrentie analyse infographic" linkURL="https://drive.google.com/file/d/13YPzYN2J49ch8vXTIgwbCr7yEy55Re1Q/" />
 	<h2>Verantwoording</h2>
@@ -234,9 +234,17 @@
 		worden ingespeeld. Deze innovatiepotentie zal in het WijPIDZ component terugkomen om een aantrekkelijker product
 		te maken voor de gebruiker.
 	</p>
+	<Image imgURL="https://i.gyazo.com/a97a72974c6792a7a76da371d54bde94.jpg" imgALT="Trend analyse consumer trend canvas" linkURL="https://drive.google.com/file/d/1LnfU7WJUgo9D2dLPDV0niNqsZnG-_kIJ/" />
 	<h2>Verantwoording</h2>
-	<p>Volledige uitgevoerd door mijzelf.</p>
+	<p>Volledige uitgevoerd door mijzelf. Inspiratie en informatie opgedaan uit vergelijkbare onderzoeken van Dylano Hartman of Mark Hendriks.</p>
+	<h2>Bronnen</h2>
+	<ul>
+		<li>[1] Wortell. (2018 augustus). 7 trends in de zorg. Geraadpleegd op 19 mei 2020, van <a href="https://www.wortell.nl/assets/uploads/2018/08/Trendrapport-7-trends-in-de-zorg.pdf" target="_blank" rel="noopener">https://www.wortell.nl/assets/uploads/2018/08/Trendrapport-7-trends-in-de-zorg.pdf</a></li>
+		<li>[2] van Zoest, F. (2017, 31 augustus). 9 trends in de ouderenzorg. Geraadpleegd op 19 mei 2020, van <a href="https://www.vilans.nl/artikelen/trends-ouderenzorg" target="_blank" rel="noopener">https://www.vilans.nl/artikelen/trends-ouderenzorg</a></li>
+		<li>[3] CONSUMER TREND CANVAS. (2014 mei). Geraadpleegd op 19 mei 2020, van <a href="https://trendwatching.com/trends/consumertrendcanvas/" target="_blank" rel="noopener">https://trendwatching.com/trends/consumertrendcanvas/</a></li>
+	</ul>
 	<!-- Document: https://docs.google.com/document/d/1j2EkoYYUr2p0usXtJFqO7shb8kJnwyh7ifczReUiI-E/ -->
+	<!-- Product: https://drive.google.com/file/d/1LnfU7WJUgo9D2dLPDV0niNqsZnG-_kIJ/ -->
 {:else if product.link === 'concept-document'}
 	<h2>Aanleiding</h2>
 	<p>Dit document is gemaakt om het snel gemaakte proof of concept te verduidelijken voor de opdrachtgever.</p>

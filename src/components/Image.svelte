@@ -4,7 +4,7 @@
 	export let linkURL;
 </script>
 
-<div><a href={linkURL} target="_blank"><img src={imgURL} alt={imgALT}></a></div>
+<div><a href={linkURL} target="_blank" rel="noopener"><img src={imgURL} alt={imgALT}></a></div>
 
 <style>
 	div {
@@ -16,8 +16,9 @@
 	}
 
 	img {
+		box-sizing: border-box;;
 		min-width: 64px;
-		max-width: 100%;
+		max-width: calc(100% - 3em);
 		min-height: 200px;
 		max-height: 75vh;
 		margin: 1.5em;
