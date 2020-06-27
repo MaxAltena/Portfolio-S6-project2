@@ -419,7 +419,8 @@
 		color: var(--on-accent);
 	}
 	ul {
-		margin-left: 0.5em;
+		margin-left: 1em;
+		margin-bottom: 2em;
 	}
 	 li {
 		margin: 0.5em;
