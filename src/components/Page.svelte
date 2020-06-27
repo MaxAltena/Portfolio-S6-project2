@@ -175,14 +175,14 @@
 	<p>Er is daarna gezocht naar directe en indirecte concurrenten, waar de volgende zijn uitgekomen:</p>
 	<strong>Directe concurrenten</strong>
 	<ul>
-		<li><strong>Zorgzuster</strong> - biedt hetzelfde aan als PIDZ, maar dan altijd in teams. Hierdoor is het een product wat in dezelfde soort markt zit als het product voor deze analyse.</li>
-		<li><strong>PZP</strong> - heeft een product waarbij er een community is. Hiermee worden ZZP’ers samengebundeld om vragen en problemen op te lossen.</li>
+		<li><strong>Zorgzuster [1]</strong> - biedt hetzelfde aan als PIDZ, maar dan altijd in teams. Hierdoor is het een product wat in dezelfde soort markt zit als het product voor deze analyse.</li>
+		<li><strong>PZP [2]</strong> - heeft een product waarbij er een community is. Hiermee worden ZZP’ers samengebundeld om vragen en problemen op te lossen.</li>
 	</ul>
 	<strong>Indirecte concurrenten</strong>
 	<ul>
-		<li><strong>WhatsApp</strong> - er kan in contact worden gekomen met elkaar. Het richt zich niet zoals de directe concurrenten om ZZP’ers in de zorg.</li>
-		<li><strong>Reddit</strong> - is een platform waarbij het in contact staan met elkaar en het delen van kennis centraal staat. Hiermee is het een indirecte concurrent van het product.</li>
-		<li><strong>StackExchange</strong> - is een Q&A community waarbij er altijd wel een antwoord wordt gegeven op je vraag door een expert. Hierdoor het platform een concurrent in het delen van kennis en de verificatie van de antwoorden op vragen.</li>
+		<li><strong>WhatsApp [3]</strong> - er kan in contact worden gekomen met elkaar. Het richt zich niet zoals de directe concurrenten om ZZP’ers in de zorg.</li>
+		<li><strong>Reddit [4]</strong> - is een platform waarbij het in contact staan met elkaar en het delen van kennis centraal staat. Hiermee is het een indirecte concurrent van het product.</li>
+		<li><strong>StackExchange [5]</strong> - is een Q&A community waarbij er altijd wel een antwoord wordt gegeven op je vraag door een expert. Hierdoor het platform een concurrent in het delen van kennis en de verificatie van de antwoorden op vragen.</li>
 	</ul>
 	<h2>Conclusie</h2>
 	<p>
@@ -193,10 +193,19 @@
 		worden voor de behoeftes van de gebruikers. Er zal dus wel gekeken kunnen worden naar hoe deze platformen deze
 		functionaliteiten hebben verwerkt om inspiratie op te kunnen doen.
 	</p>
-	<p>In een notendop de onderzoeksaspecten en de conclusie in te zien kan door middel van de <a href="https://drive.google.com/file/d/13YPzYN2J49ch8vXTIgwbCr7yEy55Re1Q/" target="_blank">infographic</a>:</p>
-	<Image imgURL="https://i.gyazo.com/48d11c01c2aa6e93b830f11bdc81f98f.jpg" imgALT="Concurrentie analyse infographic" linkURL="https://i.gyazo.com/48d11c01c2aa6e93b830f11bdc81f98f.jpg" />
+	<p>Om de informatie gemakkelijk weer te geven is er een <a href="https://docs.google.com/spreadsheets/d/1DFWv3wQLvRPX58YyXRXndHF0lrpIogyqougcH7v60G0/" target="_blank">excel sheet</a> voor de analyse en een <a href="https://drive.google.com/file/d/13YPzYN2J49ch8vXTIgwbCr7yEy55Re1Q/" target="_blank">infographic</a> voor de onderzoeksaspecte en de conclusie gemaakt.</p>
+	<Image imgURL="https://i.gyazo.com/5b8a9041b08f0b5b28d3ca754cc1645f.png" imgALT="Concurrentie analyse excel sheet" linkURL="https://docs.google.com/spreadsheets/d/1DFWv3wQLvRPX58YyXRXndHF0lrpIogyqougcH7v60G0/" />
+	<Image imgURL="https://i.gyazo.com/48d11c01c2aa6e93b830f11bdc81f98f.jpg" imgALT="Concurrentie analyse infographic" linkURL="https://drive.google.com/file/d/13YPzYN2J49ch8vXTIgwbCr7yEy55Re1Q/" />
 	<h2>Verantwoording</h2>
 	<p>Volledige uitgevoerd door mijzelf.</p>
+	<h2>Bronnen</h2>
+	<ul>
+		<li>[1] Zorgzuster. (z.d.). Geraadpleegd op 14 Mei 2020, van <a href="https://zorgzuster.nl/zzp/" target="_blank" rel="noopener">https://zorgzuster.nl/zzp/</a></li>
+		<li>[2] PZP. (z.d.). Geraadpleegd op 14 Mei 2020, van <a href="https://pzp.nu/" target="_blank" rel="noopener">https://pzp.nu/</a></li>
+		<li>[3] Whatsapp. (z.d.). Geraadpleegd op 14 Mei 2020, van <a href="https://whatsapp.com/" target="_blank" rel="noopener">https://whatsapp.com/</a></li>
+		<li>[4] Reddit. (z.d.). Geraadpleegd op 14 Mei 2020, van <a href="https://reddit.com/" target="_blank" rel="noopener">https://reddit.com/</a></li>
+		<li>[5] StackExchange. (z.d.). Geraadpleegd op 14 Mei 2020, van <a href="https://stackexchange.com/" target="_blank" rel="noopener">https://stackexchange.com/</a></li>
+	</ul>
 	<!-- Document: https://docs.google.com/document/d/18JZaBiCVn6ZHDkWyxh91wChU80UD8zaSPcBn2PFQWV8/ -->
 	<!-- Spreadsheet: https://docs.google.com/spreadsheets/d/1DFWv3wQLvRPX58YyXRXndHF0lrpIogyqougcH7v60G0/ -->
 	<!-- Product: https://drive.google.com/file/d/13YPzYN2J49ch8vXTIgwbCr7yEy55Re1Q/ -->
@@ -423,7 +432,7 @@
 		margin-bottom: 2em;
 	}
 	 li {
-		margin: 0.5em;
+		margin: 0.25em 0.5em;
 		word-spacing: 1px;
 		line-height: 1.85;
 	}
