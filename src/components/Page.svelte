@@ -379,7 +379,7 @@
 	<p>Om het duidelijker te maken hoe je een antwoord selecteert als het meest geholpen antwoord is er voor gekozen het duidelijker te maken hoe je deze kunt selecteren. Daarnaast is de titel weggehaalt omdat er geen behoefte aan was in een antwoord.</p>
 	<Image imgURL="https://i.gyazo.com/f51bfa2b502626e161fdce6135cc1f05.jpg" imgALT="Ontwerpen - Antwoord op vraag" linkURL="https://drive.google.com/file/d/1A1DrlNOKvF8Gj0-UkvcnVNbW5Na65xuA/" />
 	<h2>Conclusie</h2>
-	<p></p>
+	<p>Het ontwerpen ging goed en voorspoedig doordat er met z'n drie aan werd gewerkt. Product is gemakkelijk gevisualseerd door middel van Adobe XD.</p>
 	<h2>Verantwoording</h2>
 	<p>Het uiteindelijke ontwerp is een fusie van alle 3 de concepten van Dylano Hartman, Mark Hendriks en mij. Ik heb bijvoorbeeld de hoofdpagina opnieuw ontworpen, een vraag stellen flow ontworpen en het inzien van vragen gemaakt.</p>
 	<h2>Bronnen</h2>
@@ -388,15 +388,27 @@
 	</ul>
 {:else if product.link === 'usability-test'}
 	<h2>Aanleiding</h2>
-	<p></p>
+	<p>Om het gemaakte product te testen zal er een usability test plaatsvinden met enkele ZZP'ers van PIDZ. Deze zullen worden online met Useberry [1] uitgevoerd worden door COVID-19. Deze testen worden gedaan om het eindproduct te verbeteren en inzichten te krijgen in het gebruik van het prototype. Na de eerste testronde is er niet meer getest met ZZP'ers van PIDZ maar met kennissen en ouders.</p>
 	<h2>Aanpak</h2>
-	<p></p>
+	<p>Door het maken van een Usability Test Plan Dashboard [2] kan er worden gekeken naar wat er getest gaat worden en hoe. Daarnaast zal er een tweede ronde worden gedaan waarbij andere personen worden getest als in de eerste ronde.</p>
+	<p>De eerste ronde zal via PIDZ met ZZP'ers worden gedaan. Dit zal via Useberry gaan. De tweede ronde zal via Teams/Discord gedaan worden met andere personen om de resultaten van de eerste ronde te toetsen.</p>
 	<h2>Uitvoering</h2>
+	<strong>Usability Test Plan Dashboard</strong>
+	<Image imgURL="https://i.gyazo.com/73a285903f444c7546e301b14450f96d.jpg" imgALT="Usability test - Usability Test Plan Dashboard" linkURL="https://drive.google.com/file/d/1fLzJmJm5sAg9apeZbwq0HeTC-NmcJ89r/" />
+	<strong>ZZP'ers van PIDZ</strong>
+	<p>De eerste ronde was succesvol met 5 verschillende personen die het prototype via Useberry hebben getest. Er waren 3 personen die niet het beste antwoord konden selecteren bij een vraag die zij stelde. 2 personen waren erg te spreken van het component en gaven feedback zoals: 'Het enige waar ik tegenaan liep dat het even zoeken was om een opmerking te liken en dat het niet echt een logische en duidelijke knop voor was.' Dit was ook terug te zien in de recordings van de personen. Om deze reden is het selecteren van het meest geholpen antwoord verbeterd.</p>
+	<Image imgURL="https://i.gyazo.com/f51bfa2b502626e161fdce6135cc1f05.jpg" imgALT="Usability test - Antwoord op vraag" linkURL="https://drive.google.com/file/d/1A1DrlNOKvF8Gj0-UkvcnVNbW5Na65xuA/" />
+	<strong>Diverse personen</strong>
 	<p></p>
 	<h2>Conclusie</h2>
-	<p></p>
+	<p>Ten eerste was het lastig voor de ZZP'ers van PIDZ om Useberry te gebruiken. Ze lazen volgensmij niet de opdracht waardoor ze willekeurig een beetje gingen rondklikken. </p>
 	<h2>Verantwoording</h2>
-	<p></p>
+	<p>Het testplan is gemaakt door mijzelf. De testen zijn ook uitgevoerd door mijzelf. Het prototype is gemaakt met de groep bestaande uit Dylano Hartman, Mark Hendriks en mijzelf. De iteraties zijn ook door mijzelf gemaakt.</p>
+	<h2>Bronnen</h2>
+	<ul>
+		<li>[1] Useberry. (z.d.). Useberry - Codeless prototype analytics. <a href="https://www.useberry.com/" target="_blank" rel="noopener">https://www.useberry.com/</a></li>
+		<li>[2] Travis, D. (2013, 2 oktober). The 1-page usability test plan. <a href="https://www.userfocus.co.uk/articles/usability_test_plan_dashboard.html" target="_blank" rel="noopener">https://www.userfocus.co.uk/articles/usability_test_plan_dashboard.html</a></li>
+	</ul>
 {:else if product.link === 'svelte-workshop'}
 	<h2>Aanleiding</h2>
 	<p>Om mijn presentatie/workshop skills te verbeteren en om andere semester 6 studenten een nieuwe techniek te leren heb ik een Svelte workshop gegeven.</p>
