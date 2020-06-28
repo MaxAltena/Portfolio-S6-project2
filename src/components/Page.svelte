@@ -225,7 +225,22 @@
 		inzichtelijk te maken.
 	</p>
 	<h2>Uitvoering</h2>
-	<p>// TODO: <a href="https://docs.google.com/document/d/1j2EkoYYUr2p0usXtJFqO7shb8kJnwyh7ifczReUiI-E/">https://docs.google.com/document/d/1j2EkoYYUr2p0usXtJFqO7shb8kJnwyh7ifczReUiI-E/</a></p>
+	<p>Er zijn trends gevonden die relevant zijn voor de zorg:</p>
+	<strong>Andere samenwerkingsverbanden in de zorg</strong>
+	<p>‘Steeds minder zorgprofessionals werken exclusief in zorgorganisaties. Steeds vaker zien we ze terug als ZZP’ers in wijkteams en netwerken. Hun baan en invulling verandert daarmee drastisch. Zelfmanagement en veerkracht zijn de sleutelbegrippen voor deze zorgmedewerker nieuwe stijl. Hierdoor krijgen banen in de zorg een bredere invulling. Nieuwe taken zijn bijvoorbeeld het vervullen van een poortwachtersrol, signalering en het begeleiden van vrijwilligers.’ [1]</p>
+	<p>Deze trend is een macrotrend, wat betekent dat deze trend van 5 tot 10 jaar zal duren en verandering met zich meebrengt op consumenten niveau. Deze verandering zal zich uiten door bijvoorbeeld meer zelfstandige zorgprofessionals en andere taken voor deze zorgprofessionals.</p>
+	<p>Mede doordat de zelfstandige zorgprofessional meer taken krijgt heeft hij/zij meer vragen over deze en andere taken is deze verandering relevant voor het product. Hier kan het product op inspelen door deze vragen makkelijk te laten worden gesteld en nog makkelijker te laten worden beantwoord door andere experts.</p>
+	<strong>Technologie heeft de toekomst</strong>
+	<p>‘In vergelijking tot het buitenland, maakt de Nederlandse zorg veel gebruik van eHealth-toepassingen. Bij technologie in de zorg gaat het onder andere om beeldcommunicatie, monitoring, zelfzorg, robotisering, big data, edutainment en allerlei digitale platforms voor medische samenwerking. De zorgmedewerkers van de toekomst zijn opgegroeid in een sterk gedigitaliseerde omgeving en zij gebruiken technologie om meer zorg op afstand te leveren en om samen te werken met collega zorgprofessionals van verschillende organisaties.’ [2]</p>
+	<p>Deze trend is een megatrend, wat betekent dat deze trend van 10 tot 30 jaar zal duren en verandering met zich meebrengt op maatschappelijk niveau. Deze verandering zal zich uiten door bijvoorbeeld andere werkprocessen.</p>
+	<p>Mede doordat het werkveld zich evolueert en meer gaat digitaliseren en meer met technologie gaat werken is dit iets wat relevant is voor het product. Zo kan hier bijvoorbeeld op ingespeeld worden door het gemakkelijker maken van het stellen van vragen. Hiernaast zullen er meer gebruikers online zijn doordat de zorg digitaliseert.</p>
+	<strong>Kennis op maat maakt en deelt u samen</strong>
+	<p>‘De vraagstukken in de (ouderen)zorg worden steeds complexer. Het onderscheid tussen kennisontwikkelaars, -verspreiders en –gebruikers verdwijnt. Daarvoor in de plaats komt een grote variatie aan ontwikkelaars en gebruikers die in (vaak lokale/regionale) netwerkverbanden nauw samenwerken aan het ontwikkelen, aanbieden en gebruiken van kennis. Zorgorganisaties en maatschappelijke initiatieven geven ook steeds vaker zelf invulling aan de kennisfunctie.’ [2]</p>
+	<p>Deze trend is een microtrend, wat betekent dat deze trend tot 5 jaar zal gaan duren en verandering met zich meebrengt op marktniveau. Deze verandering zal zich uiten door bijvoorbeeld diverse platformen om kennis te delen over de zorg.</p>
+	<p>Mede doordat er meer behoefte aan persoonlijke antwoorden is dit iets wat relevant is voor het product. Zo kan hier bijvoorbeeld op ingespeeld worden door het stellen van vragen en het platform uiteindelijk publiek maken.</p>
+	<strong>Consumer Trend Canvas</strong>
+	<p>Er is een consumer trend canvas[3] gemaakt voor de trend ‘Kennis op maat maakt en deelt u samen’ mede doordat deze trend erg relevant is voor het product.</p>
+	<Image imgURL="https://i.gyazo.com/a97a72974c6792a7a76da371d54bde94.jpg" imgALT="Trend analyse consumer trend canvas" linkURL="https://drive.google.com/file/d/1LnfU7WJUgo9D2dLPDV0niNqsZnG-_kIJ/" />
 	<h2>Conclusie</h2>
 	<p>
 		Het delen van kennis binnen de zorg zal de komende tijd belangrijker worden. Mede door de huidige COVID-19
@@ -234,7 +249,6 @@
 		worden ingespeeld. Deze innovatiepotentie zal in het WijPIDZ component terugkomen om een aantrekkelijker product
 		te maken voor de gebruiker.
 	</p>
-	<Image imgURL="https://i.gyazo.com/a97a72974c6792a7a76da371d54bde94.jpg" imgALT="Trend analyse consumer trend canvas" linkURL="https://drive.google.com/file/d/1LnfU7WJUgo9D2dLPDV0niNqsZnG-_kIJ/" />
 	<h2>Verantwoording</h2>
 	<p>Volledige uitgevoerd door mijzelf. Inspiratie en informatie opgedaan uit vergelijkbare onderzoeken van Dylano Hartman of Mark Hendriks.</p>
 	<h2>Bronnen</h2>
