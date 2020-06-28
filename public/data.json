@@ -14,20 +14,6 @@
 		},
 		{
 			"type": "page",
-			"includeInShowcase": false,
-			"emoji": "🕹",
-			"title": "Warzone",
-			"link": "super-secret"
-		},
-		{
-			"type": "page",
-			"includeInShowcase": false,
-			"emoji": "🕹",
-			"title": "Warzone",
-			"link": "warzone"
-		},
-		{
-			"type": "page",
 			"includeInShowcase": true,
 			"emoji": "⁉️",
 			"title": "Kritische vragen",

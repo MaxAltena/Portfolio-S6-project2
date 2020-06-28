@@ -101,7 +101,7 @@
 	<h2>Aanpak</h2>
 	<p>Om een goede eerste probleemanalyse te doen moet er gekeken worden naar: de opdracht, de probleemstelling, het doel, de onderzoeksaspecten, de uitvoering van het project, de aanpak van het project, het gewenste eindresultaat en de oplossing voor het probleem.</p>
 	<h2>Uitvoering</h2>
-	<p>Ik ben begonnen met de opzet te pakken van het vorige project, dus de vragen zoals; wat is de probleemstelling, wat is het doel en wat wordt de aanpak van het project. Deze beantwoord en een verhaaltje van gemaakt om het een doorlopend verhaal te maken.</p>
+	<p>Ik ben begonnen met de opzet te pakken van het vorige project, dus de vragen zoals; wat is de probleemstelling, wat is het doel en wat wordt de aanpak van het project. Deze beantwoord en een verhaaltje van gemaakt om het een doorlopend verhaal te maken. Als je het verhaaltje wilt lezen kan dat in dit <a href="https://docs.google.com/document/d/12m4le8-qWBinYBItjhjvGriKU2Cqo-Csh8lO5WTwolY/" target="_blank" rel="noopener">document</a>.</p>
 	<h2>Conclusie</h2>
 	<p>Er zijn verschillende problemen die bijdrage aan de behoefte om onderling met elkaar te communiceren en kennis te delen. Denk hierbij aan de volgende punten:</p>
 	<ul>
@@ -359,15 +359,25 @@
 	<!-- Customer Profile: https://drive.google.com/file/d/1qUwEmXgXOGDj_qtHLtLJgEeoTOzf1gUj/ -->
 {:else if product.link === 'ontwerpen'}
 	<h2>Aanleiding</h2>
-	<p></p>
+	<p>Er is ontworpen om een prototype te maken om mee diverse <a href="https://portfolio.maxaltena.com/S6/project2/usability-test/">usability tests</a> mee uit te voeren. Daarnaast is een prototype een deliverable die PIDZ graag zou willen hebben.</p>
 	<h2>Aanpak</h2>
-	<p></p>
+	<p>Er is een prototype gemaakt in Adobe XD [1]. Er is hiervoor gekozen doordat je gemakkelijk kunt ontwerpen en prototype in XD. Daarnaast kun je samen aan 1 gezamenlijk bestand werken.</p>
 	<h2>Uitvoering</h2>
-	<p></p>
-	<h2>Conclusie</h2>
-	<p></p>
+	<p>Het prototype is in te zien door middel van het <a href="https://drive.google.com/file/d/1r6U0sOjyvsJkA1u9KfiN9blHKgEUhkBo/" target="_blank" rel="noopener">Adobe XD bestand</a> en de <a href="https://xd.adobe.com/view/3ee51ae7-1310-4d76-8034-2d6f425f7ae3-6bb6/?fullscreen" target="_blank" rel="noopener">online klikbare versie</a></p>
+	<p>Sommige styles, zoals het lettertype, de kleuren en de blokken, komen van het <a href="https://projects.invisionapp.com/dsm/smiling-gents/pidz-design-system/" target="_blank" rel="noopener">PIDZ design systeem</a> dat is aangeleverd en waar grotendeels aan gehouden moest worden.</p>
+	<strong>Homepagina</strong>
+	<p>Gebaseerd op van mijn <a href="https://portfolio.maxaltena.com/S6/project2/concept-document/">concept</a> en van de <a href="https://portfolio.maxaltena.com/S6/project2/concurrentie-analyse/">concurrentie analyse</a> waaruit bleek dat reddit een goede vorm heeft van het weergeven van vragen/posts.</p>
+	<Image imgURL="https://i.gyazo.com/5567b2e5c2e3a88db9d16ca5805a8495.png" imgALT="Ontwerpen - Homepagina" linkURL="https://drive.google.com/file/d/1Whly9ADC6nx1RjH2np3NRNI6kv887AMV/" />
+	<p>Er zijn meerdere iteraties geweest op elementen die terugkomen in het prototype.</p>
+	<strong>Zoekbalk</strong>
+	<p>Doordat er meer content in op het platform delen van kennis kwam dan eerst gedacht, is de zoekbalk van rechts in de column naar boven verplaatst. Daarnaast is er door meer content ook vraag naar specifieker zoeken.</p>
+	<Image imgURL="https://i.gyazo.com/710bfa2cf0828850f1e438ea6c3a304d.jpg" imgALT="Ontwerpen - Zoekbalk" linkURL="https://drive.google.com/file/d/14FXl29lsMpJS3jDYcH3QL2QxZiJDRooH/" />
 	<h2>Verantwoording</h2>
-	<p></p>
+	<p>Het uiteindelijke ontwerp is een fusie van alle 3 de concepten van Dylano Hartman, Mark Hendriks en mij. Ik heb bijvoorbeeld de hoofdpagina opnieuw ontworpen, een vraag stellen flow ontworpen en het inzien van vragen gemaakt.</p>
+	<h2>Bronnen</h2>
+	<ul>
+		<li>[1] Adobe XD. (z.d.). UI/UX design and collaboration tool | Adobe XD. <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noopener">https://www.adobe.com/products/xd.html</a></li>
+	</ul>
 {:else if product.link === 'usability-test'}
 	<h2>Aanleiding</h2>
 	<p></p>
@@ -441,7 +451,7 @@
 	<p>Grotendeels uitgevoerd door mijzelf. Stukjes tekst van andere sub-groepen overgeleven en aangepast waar nodig om verhaal lopend te houden.</p>
 	<h2>Bronnen</h2>
 	<ul>
-		<li>Benders, L. (2020, 21 april). Schrijf een perfect adviesrapport. Scribbr. <a href="https://www.scribbr.nl/stage/schrijf-een-perfect-adviesrapport/" target="_blank" rel="noopener">https://www.scribbr.nl/stage/schrijf-een-perfect-adviesrapport/</a></li>
+		<li>[1] Benders, L. (2020, 21 april). Schrijf een perfect adviesrapport. Scribbr. <a href="https://www.scribbr.nl/stage/schrijf-een-perfect-adviesrapport/" target="_blank" rel="noopener">https://www.scribbr.nl/stage/schrijf-een-perfect-adviesrapport/</a></li>
 	</ul>
 	<!-- Document: https://docs.google.com/document/d/18CDEe6Pf5EhB5r3azcfRIpL8-jm6IzIlSznYHjGsFjc/ -->
 	<!-- Product: https://drive.google.com/file/d/1uuAZwHHKi-mwhcmtaccib7ImcWya28s9/ -->
