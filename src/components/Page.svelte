@@ -267,11 +267,17 @@
 		Er wordt een proof of concept gemaakt om visueel weer te geven wat de ideeën zijn voor het concept. Hierbij worden de functionaliteiten van het platform uitgelicht.
 	</p>
 	<h2>Uitvoering</h2>
-	<p>Het concept is een component om vragen te kunnen stellen, te beantwoorden, op te reageren en de mogelijkheid om met iemand 1-op-1 te chatten. Dit gaat het component inhouden. Deze functionaliteiten zijn uit onderzoek en inspiratie gekomen vanuit de onderzoeken die zijn gedaan, denk hierbij aan een concurrentie analyse en een trendanalyse. Dit is allemaal terug te vinden in het <a href="https://docs.google.com/document/d/1jMFDnrAp0jCWUPSIuvPXbX0W4njh-pzJl9Ctheyb3tw/" target="_blank" rel="noopener">conceptdocument</a></p>
+	<p>Het concept is een component om vragen te kunnen stellen, te beantwoorden, op te reageren en de mogelijkheid om met iemand 1-op-1 te chatten. Dit gaat het component inhouden. Deze functionaliteiten zijn uit onderzoek en inspiratie gekomen vanuit de onderzoeken die zijn gedaan, denk hierbij aan een concurrentie analyse en een trendanalyse.</p>
 	<Image imgURL="https://i.gyazo.com/c69d7a07ef0f3605d9cbf969084689dc.jpg" imgALT="Concept document" linkURL="https://docs.google.com/document/d/1jMFDnrAp0jCWUPSIuvPXbX0W4njh-pzJl9Ctheyb3tw/" />
+	<p>De resultaten van de gemaakte <a href="https://portfolio.maxaltena.com/S6/project2/concurrentie-analyse/">concurrentie analyse</a> en <a href="https://portfolio.maxaltena.com/S6/project2/trend-analyse/">trend analyse</a> zijn meegenomen in het proof of concept op de volgende punten:</p>
+	<ul>
+		<li><strong>1-op-1 chats</strong> - Uit onderzoek bleek dat mensen het fijn vinden om dingen 1-op-1 te delen in plaats van op het gehele internet.</li>
+		<li><strong>Betrouwbaarheid</strong> - Stellen van vragen zijn bij indirecte concurrenten belangrijk er wordt niet gekeken naar betrouwbaarheid.</li>
+		<li><strong>Vragen</strong> - Het delen van kennis is een trend, komend uit de trendanalyse, die op dit moment opkomend is bij de zorg. Als het stellen van vragen en beantwoorden gemakkelijk en betrouwbaar is speelt dit in op deze trend.</li>
+	</ul>
 	<h2>Conclusie</h2>
 	<p>
-		Door het concepte te wireframen is er een basis van hoe het er uit moet komen te zien. Doordat er een ontwerp is gemaakt kan er makkelijker feedback op worden gegeven door groepsgenoten en de opdrachtgever.
+		Door het concept te wireframen is er een basis van hoe het er uit moet komen te zien en welke functionaliteit er in zit. Doordat er een ontwerp is gemaakt kan er makkelijker feedback op worden gegeven door groepsgenoten en de opdrachtgever.
 	</p>
 	<h2>Verantwoording</h2>
 	<p>Volledig uitgevoerd door mijzelf.</p>
@@ -290,7 +296,10 @@
 		concept in de markt te kunnen zetten met een Unique Selling Point.
 	</p>
 	<h2>Uitvoering</h2>
-	<p>// TODO: <a href="https://docs.google.com/document/d/1JyDQrD8sY6aFT1PBR2co3qC30n5tnWN3E0L2qCBFAhA/">https://docs.google.com/document/d/1JyDQrD8sY6aFT1PBR2co3qC30n5tnWN3E0L2qCBFAhA/</a></p>
+	<p>Om de sterke en zwakke punten en de mogelijkheden en bedreigingen van het concept beter in kaart te brengen is er een SWOT analyse gedaan van deze punten. Met deze informatie kan er ook gekeken worden naar hoe het concept het beste in de markt kan worden gezet.</p>
+	<Image imgURL="https://i.gyazo.com/f99aec265b4b7deca44d5ef466165d99.png" imgALT="Concept analyse - SWOT analyse" linkURL="https://drive.google.com/file/d/1SCBEt05Va-CFqmPDSywv5G2Pwt2Zd5FM/" />
+	<p>Om sterke punten en daarnaast ook unieke punten te vinden tegenover de concurrentie is er een Unique Selling Point analyse gedaan door middel van het format van mindtools [1]. Met deze informatie kan er ook gekeken worden naar hoe het concept het beste in de markt kan worden gezet.</p>
+	<Image imgURL="https://i.gyazo.com/237cd60608bbd543521081c52072cf22.jpg" imgALT="Concept analyse - USP analyse" linkURL="https://drive.google.com/file/d/1JhdB5sASWLwuwQhFfZYWSzRg4SQOXCGx/" />
 	<h2>Conclusie</h2>
 	<p>
 		Doordat het concept de problemen van de gebruiker oplost is dat sterke punt ook een van de unieke punten van het
@@ -302,7 +311,13 @@
 	</p>
 	<h2>Verantwoording</h2>
 	<p>Volledige uitgevoerd door mijzelf.</p>
+	<h2>Bronnen</h2>
+	<ul>
+		<li>[1] Mindtools. (z.d.). USP Analysis: The Unique Selling Proposition: Finding Your Competitive Edge. Geraadpleegd op 1 juni 2020, van <a href="https://www.mindtools.com/pages/article/newTMC_11.htm" target="_blank" rel="noopener">https://www.mindtools.com/pages/article/newTMC_11.htm</a></li>
+	</ul>
 	<!-- Document: https://docs.google.com/document/d/1JyDQrD8sY6aFT1PBR2co3qC30n5tnWN3E0L2qCBFAhA/ -->
+	<!-- SWOT analyse: https://drive.google.com/file/d/1SCBEt05Va-CFqmPDSywv5G2Pwt2Zd5FM/ -->
+	<!-- USP analyse: https://drive.google.com/file/d/1JhdB5sASWLwuwQhFfZYWSzRg4SQOXCGx/ -->
 {:else if product.link === 'business-model'}
 	<h2>Aanleiding</h2>
 	<p>
@@ -318,7 +333,12 @@
 		punten op een overzichtelijke manier weer te geven.
 	</p>
 	<h2>Uitvoering</h2>
-	<p>// TODO: <a href="https://docs.google.com/document/d/1Jsb8f93tNSEMV5fP18bTphtRvMsXrHlXMTrKnx2ZItA/">https://docs.google.com/document/d/1Jsb8f93tNSEMV5fP18bTphtRvMsXrHlXMTrKnx2ZItA/</a></p>
+	<p>Er is een Business Model Canvas, Value Proposition en Customer Profile gemaakt met Strategyzer [1].</p>
+	<Image imgURL="https://i.gyazo.com/e7e895552c800e1a26e7765568f4d040.png" imgALT="Business model - Business Model Canvas" linkURL="https://drive.google.com/file/d/1TQi9XoJbz8Hee-rjAk1h6TVlnd1MMQlH/" />
+	<strong>Value proposition ZZP'er</strong>
+	<Image imgURL="https://i.gyazo.com/41b881534ad57fc7efaa104b0034cee6.png" imgALT="Business model - Value proposition" linkURL="https://drive.google.com/file/d/1s6-Ausgu2BgDcjC84cQp4xpAlL8Qi338/" />
+	<strong>Customer profile ZZP'er</strong>
+	<Image imgURL="https://i.gyazo.com/5de56098a5a3aba45fea60e708abb475.png" imgALT="Business model - Customer profile" linkURL="https://drive.google.com/file/d/1qUwEmXgXOGDj_qtHLtLJgEeoTOzf1gUj/" />
 	<h2>Conclusie</h2>
 	<p>
 		Duidelijkheid van welke belanghebbende en kosten er zijn met dit product is er nu. Daarnaast was er nog niet
@@ -329,6 +349,14 @@
 	</p>
 	<h2>Verantwoording</h2>
 	<p>Volledige uitgevoerd door mijzelf.</p>
+	<h2>Bronnen</h2>
+	<ul>
+		<li>[1] Strategyzer AG. (z.d.). Strategyzer | Corporate Innovation Strategy, Tools & Training. Geraadpleegd op 1 juni 2020, van <a href="https://www.strategyzer.com/" target="_blank" rel="noopener">https://www.strategyzer.com/</a></li>
+	</ul>
+	<!-- Document: https://docs.google.com/document/d/1Jsb8f93tNSEMV5fP18bTphtRvMsXrHlXMTrKnx2ZItA/ -->
+	<!-- Business Model Canvas: https://drive.google.com/file/d/1TQi9XoJbz8Hee-rjAk1h6TVlnd1MMQlH/ -->
+	<!-- Value proposition: https://drive.google.com/file/d/1s6-Ausgu2BgDcjC84cQp4xpAlL8Qi338/ -->
+	<!-- Customer Profile: https://drive.google.com/file/d/1qUwEmXgXOGDj_qtHLtLJgEeoTOzf1gUj/ -->
 {:else if product.link === 'ontwerpen'}
 	<h2>Aanleiding</h2>
 	<p></p>

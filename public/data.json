@@ -72,28 +72,28 @@
 			"type": "page",
 			"includeInShowcase": true,
 			"emoji": "🧠",
-			"title": "Concept analyse (1/2)",
+			"title": "Concept analyse",
 			"link": "concept-analyse"
 		},
 		{
 			"type": "page",
 			"includeInShowcase": true,
 			"emoji": "📊",
-			"title": "Business Model (1/2)",
+			"title": "Business Model",
 			"link": "business-model"
 		},
 		{
 			"type": "page",
 			"includeInShowcase": true,
 			"emoji": "🖌",
-			"title": "Ontwerpen (0/2)",
+			"title": "Ontwerpen 0",
 			"link": "ontwerpen"
 		},
 		{
 			"type": "page",
 			"includeInShowcase": true,
 			"emoji": "🧪",
-			"title": "Usability test (0/2)",
+			"title": "Usability test 0",
 			"link": "usability-test"
 		},
 		{
@@ -107,7 +107,7 @@
 			"type": "page",
 			"includeInShowcase": true,
 			"emoji": "🗣️",
-			"title": "Communicatiestrategie (0/2)",
+			"title": "Communicatiestrategie 0",
 			"link": "communicatiestrategie"
 		},
 		{
