@@ -368,10 +368,18 @@
 	<strong>Homepagina</strong>
 	<p>Gebaseerd op van mijn <a href="https://portfolio.maxaltena.com/S6/project2/concept-document/">concept</a> en van de <a href="https://portfolio.maxaltena.com/S6/project2/concurrentie-analyse/">concurrentie analyse</a> waaruit bleek dat reddit een goede vorm heeft van het weergeven van vragen/posts.</p>
 	<Image imgURL="https://i.gyazo.com/5567b2e5c2e3a88db9d16ca5805a8495.png" imgALT="Ontwerpen - Homepagina" linkURL="https://drive.google.com/file/d/1Whly9ADC6nx1RjH2np3NRNI6kv887AMV/" />
-	<p>Er zijn meerdere iteraties geweest op elementen die terugkomen in het prototype.</p>
+	<strong>Vraag details</strong>
+	<p>Het gemakkelijk beantwoorden van vragen is een belangrijk aspect om zo min mogelijk frictie te hebben. Er komt veel overeen met stackexchange met de manier waarop er informatie weergegeven wordt.</p>
+	<Image imgURL="https://i.gyazo.com/9c8fab87b3ff3fc94de45467dbdf3599.png" imgALT="Ontwerpen - Vraag details" linkURL="https://drive.google.com/file/d/1taN2qCWURJGx--fsJKJB4xWMOzrgZy5d/" />
+	<p>Er zijn meerdere iteraties geweest op elementen die in het prototype zitten.</p>
 	<strong>Zoekbalk</strong>
 	<p>Doordat er meer content in op het platform delen van kennis kwam dan eerst gedacht, is de zoekbalk van rechts in de column naar boven verplaatst. Daarnaast is er door meer content ook vraag naar specifieker zoeken.</p>
 	<Image imgURL="https://i.gyazo.com/710bfa2cf0828850f1e438ea6c3a304d.jpg" imgALT="Ontwerpen - Zoekbalk" linkURL="https://drive.google.com/file/d/14FXl29lsMpJS3jDYcH3QL2QxZiJDRooH/" />
+	<strong>Antwoord op vraag</strong>
+	<p>Om het duidelijker te maken hoe je een antwoord selecteert als het meest geholpen antwoord is er voor gekozen het duidelijker te maken hoe je deze kunt selecteren. Daarnaast is de titel weggehaalt omdat er geen behoefte aan was in een antwoord.</p>
+	<Image imgURL="https://i.gyazo.com/f51bfa2b502626e161fdce6135cc1f05.jpg" imgALT="Ontwerpen - Antwoord op vraag" linkURL="https://drive.google.com/file/d/1A1DrlNOKvF8Gj0-UkvcnVNbW5Na65xuA/" />
+	<h2>Conclusie</h2>
+	<p></p>
 	<h2>Verantwoording</h2>
 	<p>Het uiteindelijke ontwerp is een fusie van alle 3 de concepten van Dylano Hartman, Mark Hendriks en mij. Ik heb bijvoorbeeld de hoofdpagina opnieuw ontworpen, een vraag stellen flow ontworpen en het inzien van vragen gemaakt.</p>
 	<h2>Bronnen</h2>
