@@ -65,7 +65,7 @@
 			"type": "page",
 			"includeInShowcase": true,
 			"emoji": "💭",
-			"title": "Concept document (1/2)",
+			"title": "Concept document",
 			"link": "concept-document"
 		},
 		{
@@ -100,7 +100,7 @@
 			"type": "page",
 			"includeInShowcase": true,
 			"emoji": "🛠",
-			"title": "Svelte workshop (0/2)",
+			"title": "Svelte workshop",
 			"link": "svelte-workshop"
 		},
 		{

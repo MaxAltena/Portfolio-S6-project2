@@ -264,21 +264,17 @@
 	<p>Dit document is gemaakt om het snel gemaakte proof of concept te verduidelijken voor de opdrachtgever.</p>
 	<h2>Aanpak</h2>
 	<p>
-		Er wordt een proof of concept gemaakt om visueel weer te geven wat de ideeën zijn voor het concept. Hierbij
-		worden de functionaliteiten van het platform uitgelicht. Naast het concept te visualiseren en te onderbouwen
-		zijn er Unique Selling Points om het concept te versterken en te verantwoorden.
+		Er wordt een proof of concept gemaakt om visueel weer te geven wat de ideeën zijn voor het concept. Hierbij worden de functionaliteiten van het platform uitgelicht.
 	</p>
 	<h2>Uitvoering</h2>
-	<p>// TODO: <a href="https://docs.google.com/document/d/1jMFDnrAp0jCWUPSIuvPXbX0W4njh-pzJl9Ctheyb3tw/">https://docs.google.com/document/d/1jMFDnrAp0jCWUPSIuvPXbX0W4njh-pzJl9Ctheyb3tw/</a></p>
+	<p>Het concept is een component om vragen te kunnen stellen, te beantwoorden, op te reageren en de mogelijkheid om met iemand 1-op-1 te chatten. Dit gaat het component inhouden. Deze functionaliteiten zijn uit onderzoek en inspiratie gekomen vanuit de onderzoeken die zijn gedaan, denk hierbij aan een concurrentie analyse en een trendanalyse. Dit is allemaal terug te vinden in het <a href="https://docs.google.com/document/d/1jMFDnrAp0jCWUPSIuvPXbX0W4njh-pzJl9Ctheyb3tw/" target="_blank" rel="noopener">conceptdocument</a></p>
+	<Image imgURL="https://i.gyazo.com/c69d7a07ef0f3605d9cbf969084689dc.jpg" imgALT="Concept document" linkURL="https://docs.google.com/document/d/1jMFDnrAp0jCWUPSIuvPXbX0W4njh-pzJl9Ctheyb3tw/" />
 	<h2>Conclusie</h2>
 	<p>
-		Het concept wordt nog getoetst bij de opdrachtgever maar is nu al erg belangrijk door het gemakkelijk te
-		visualiseren van het idee. Dit helpt andere met het begrijpen van het concept en functionaliteiten van het
-		concept. Na feedback van de opdrachtgever zal deze mogelijk worden verwerkt in de volgende fases van het
-		project.
+		Door het concepte te wireframen is er een basis van hoe het er uit moet komen te zien. Doordat er een ontwerp is gemaakt kan er makkelijker feedback op worden gegeven door groepsgenoten en de opdrachtgever.
 	</p>
 	<h2>Verantwoording</h2>
-	<p>Volledige uitgevoerd door mijzelf.</p>
+	<p>Volledig uitgevoerd door mijzelf.</p>
 	<!-- Document: https://docs.google.com/document/d/1jMFDnrAp0jCWUPSIuvPXbX0W4njh-pzJl9Ctheyb3tw/ -->
 {:else if product.link === 'concept-analyse'}
 	<h2>Aanleiding</h2>
@@ -357,15 +353,15 @@
 	<p></p>
 {:else if product.link === 'svelte-workshop'}
 	<h2>Aanleiding</h2>
-	<p></p>
-	<h2>Aanpak</h2>
-	<p></p>
+	<p>Om mijn presentatie/workshop skills te verbeteren en om andere semester 6 studenten een nieuwe techniek te leren heb ik een Svelte workshop gegeven.</p>
+	<h2>Presentatie</h2>
+	<Image imgURL="https://i.gyazo.com/6436f51f2728404e87bde7c0578be685.jpg" imgALT="Svelte workshop - Presentatie" linkURL="https://docs.google.com/presentation/d/1C4_pAOsqH11qEbFMlQxtE9oFWn47OXSm8ObBTTyJks0/" />
 	<h2>Uitvoering</h2>
-	<p></p>
-	<h2>Conclusie</h2>
-	<p></p>
+	<Image imgURL="https://i.gyazo.com/d4a608365def738d06515003c2454c33.png" imgALT="Svelte workshop - Video" linkURL="https://web.microsoftstream.com/video/f5a514d9-5646-4b1d-9821-9ce1c8d36e93" />
 	<h2>Verantwoording</h2>
-	<p></p>
+	<p>Volledige uitgevoerd door mijzelf.</p>
+	<!-- Presentatie: https://docs.google.com/presentation/d/1C4_pAOsqH11qEbFMlQxtE9oFWn47OXSm8ObBTTyJks0/ -->
+	<!-- Video: https://web.microsoftstream.com/video/f5a514d9-5646-4b1d-9821-9ce1c8d36e93 -->
 {:else if product.link === 'communicatiestrategie'}
 	<h2>Aanleiding</h2>
 	<p></p>
