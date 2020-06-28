@@ -34,7 +34,7 @@
 		</li>
 		<li>
 			<strong>
-				Mogen we 10 vragen die gesteld worden door de ZZP’ers? Deze informatie is nodig om er rekening mee te
+				Mogen we 10 vragen die gesteld worden door de ZZP'ers? Deze informatie is nodig om er rekening mee te
 				kunnen houden hoelang en wat de context van de vragen zijn en hoe de ZZP'ers op een andere manier het
 				antwoord hadden kunnen beantwoorden.
 			</strong>
@@ -105,8 +105,8 @@
 	<h2>Conclusie</h2>
 	<p>Er zijn verschillende problemen die bijdrage aan de behoefte om onderling met elkaar te communiceren en kennis te delen. Denk hierbij aan de volgende punten:</p>
 	<ul>
-		<li>Contact met collega’s. ZZP’ers voelen zich weinig verbonden met andere ZZP’ers. Ze zoeken dit wel, bijvoorbeeld door elkaar te treffen op sociale media, WhatsApp-groepen, netwerkborrels of anderszin.</li>
-		<li>Verbinding met zorginstellingen en bemiddelaars. ZZP’ers voelen zich niet aangesloten bij een team.</li>
+		<li>Contact met collega's. ZZP'ers voelen zich weinig verbonden met andere ZZP'ers. Ze zoeken dit wel, bijvoorbeeld door elkaar te treffen op sociale media, WhatsApp-groepen, netwerkborrels of anderszin.</li>
+		<li>Verbinding met zorginstellingen en bemiddelaars. ZZP'ers voelen zich niet aangesloten bij een team.</li>
 		<li>Dezelfde onderwerpen. Op sociale media zoals Facebook(groepen) gaat het vaak om steeds dezelfde onderwerpen, zoals de opstart van een bedrijf.</li>
 	</ul>
 	<p>Deze problemen zijn uit onderzoek gekomen dat PIDZ heeft gedaan en waarna deze resultaten zijn gedeeld met ons.</p>
@@ -126,7 +126,7 @@
 	<p>De opdracht, probleemstelling en het doel van het project zijn redelijk hetzelfde gebleven als in de <a href="https://portfolio.maxaltena.com/S6/project2/individuele-analyse/">individuele analyse</a>. De onderzoeksvragen en de tussenproducten zijn daarnaast wel wat bijgescherpt door de behoefte van de opdrachtgever waar de volgende punten uitkwamen:</p>
 	<ul>
 		<li><strong>Wat doet de concurrentie?</strong> - Met deze vraag wordt er te weten gekomen wat de concurrentie al heeft en wat er mist. Dit zal gedaan worden door middel van een concurrentie analyse. Vanaf dit punt kunnen er concepten worden bedacht die aansluiten bij de gebruiker, door het onderzoek gedaan door PIDZ, en die meer bieden dan wat de concurrent heeft, door het de concurrentie analyse.</li>
-		<li><strong>Wat zijn USP’s van de concepten?</strong> - Om de waarde van het product in te kunnen schatten, zijn de USP’s van de concepten erg belangrijk te analyseren. Hierbij kan ook al gekeken worden naar een mogelijk business model.</li>
+		<li><strong>Wat zijn USP's van de concepten?</strong> - Om de waarde van het product in te kunnen schatten, zijn de USP's van de concepten erg belangrijk te analyseren. Hierbij kan ook al gekeken worden naar een mogelijk business model.</li>
 		<li><strong>Wat gaat het product inhouden?</strong> - Om te weten wat het product is, moet er gekeken worden wat het product inhoudt door middel van proof of concepts. Hiermee kan er een design specificatie worden gemaakt waarmee er prototypes kunnen worden gemaakt.</li>
 		<li><strong>Is het product duidelijk voor de gebruiker?</strong> - Om te verifiëren of het product zinvol is worden de prototypes getest door middel van gebruikerstesten. Hieruit komt een testrapport waarmee er verbeteringen kunnen worden doorgevoerd en een advies kan worden gegeven over mogelijk vervolgstappen.</li>
 	</ul>
@@ -142,7 +142,7 @@
 		Om te weten te komen wat het uiteindelijke component in het WijPIDZ product voor het delen van kennis gaat
 		inhouden en wat voor vorm deze zal hebben zal een concurrentie analyse worden gedaan. Met deze analyse wordt
 		gekeken naar welke verschillende vormen er zijn, wat de voor- en nadelen hiervan zijn en waar rekening mee moet
-		worden gehouden tijdens het bedenken en ontwerpen van het component. Hieruit zullen uiteindelijk mogelijke USP’s
+		worden gehouden tijdens het bedenken en ontwerpen van het component. Hieruit zullen uiteindelijk mogelijke USP's
 		komen, de sterktes en zwaktes van de concurrenten en dus ook de kansen en gevaren van het component.
 	</p>
 	<h2>Aanpak</h2>
@@ -153,7 +153,7 @@
 		prijs, kwaliteit en service. Het analyseren van de concurrenten is het belangrijkste en meeste werk, zo moet er
 		per concurrent gekeken worden naar de opgestelde punten en hoe ze hierop scoren ten opzichte van de andere. Per
 		punt wordt er ook een kleine toelichting gegeven om zo de score van het punt te onderbouwen. Als laatste kan er
-		dan bestudeerd worden welke sterke en zwakke punten elke concurrent heeft. Hiermee kunnen mogelijke USP’s
+		dan bestudeerd worden welke sterke en zwakke punten elke concurrent heeft. Hiermee kunnen mogelijke USP's
 		verschijnen die het product of service uniek kunnen maken waarbij waarde kan worden gecreëerd.
 	</p>
 	<h2>Uitvoering</h2>
@@ -176,11 +176,11 @@
 	<strong>Directe concurrenten</strong>
 	<ul>
 		<li><strong>Zorgzuster [1]</strong> - biedt hetzelfde aan als PIDZ, maar dan altijd in teams. Hierdoor is het een product wat in dezelfde soort markt zit als het product voor deze analyse.</li>
-		<li><strong>PZP [2]</strong> - heeft een product waarbij er een community is. Hiermee worden ZZP’ers samengebundeld om vragen en problemen op te lossen.</li>
+		<li><strong>PZP [2]</strong> - heeft een product waarbij er een community is. Hiermee worden ZZP'ers samengebundeld om vragen en problemen op te lossen.</li>
 	</ul>
 	<strong>Indirecte concurrenten</strong>
 	<ul>
-		<li><strong>WhatsApp [3]</strong> - er kan in contact worden gekomen met elkaar. Het richt zich niet zoals de directe concurrenten om ZZP’ers in de zorg.</li>
+		<li><strong>WhatsApp [3]</strong> - er kan in contact worden gekomen met elkaar. Het richt zich niet zoals de directe concurrenten om ZZP'ers in de zorg.</li>
 		<li><strong>Reddit [4]</strong> - is een platform waarbij het in contact staan met elkaar en het delen van kennis centraal staat. Hiermee is het een indirecte concurrent van het product.</li>
 		<li><strong>StackExchange [5]</strong> - is een Q&A community waarbij er altijd wel een antwoord wordt gegeven op je vraag door een expert. Hierdoor het platform een concurrent in het delen van kennis en de verificatie van de antwoorden op vragen.</li>
 	</ul>
@@ -227,19 +227,19 @@
 	<h2>Uitvoering</h2>
 	<p>Er zijn trends gevonden die relevant zijn voor de zorg:</p>
 	<strong>Andere samenwerkingsverbanden in de zorg</strong>
-	<p>‘Steeds minder zorgprofessionals werken exclusief in zorgorganisaties. Steeds vaker zien we ze terug als ZZP’ers in wijkteams en netwerken. Hun baan en invulling verandert daarmee drastisch. Zelfmanagement en veerkracht zijn de sleutelbegrippen voor deze zorgmedewerker nieuwe stijl. Hierdoor krijgen banen in de zorg een bredere invulling. Nieuwe taken zijn bijvoorbeeld het vervullen van een poortwachtersrol, signalering en het begeleiden van vrijwilligers.’ [1]</p>
+	<p>'Steeds minder zorgprofessionals werken exclusief in zorgorganisaties. Steeds vaker zien we ze terug als ZZP'ers in wijkteams en netwerken. Hun baan en invulling verandert daarmee drastisch. Zelfmanagement en veerkracht zijn de sleutelbegrippen voor deze zorgmedewerker nieuwe stijl. Hierdoor krijgen banen in de zorg een bredere invulling. Nieuwe taken zijn bijvoorbeeld het vervullen van een poortwachtersrol, signalering en het begeleiden van vrijwilligers.' [1]</p>
 	<p>Deze trend is een macrotrend, wat betekent dat deze trend van 5 tot 10 jaar zal duren en verandering met zich meebrengt op consumenten niveau. Deze verandering zal zich uiten door bijvoorbeeld meer zelfstandige zorgprofessionals en andere taken voor deze zorgprofessionals.</p>
 	<p>Mede doordat de zelfstandige zorgprofessional meer taken krijgt heeft hij/zij meer vragen over deze en andere taken is deze verandering relevant voor het product. Hier kan het product op inspelen door deze vragen makkelijk te laten worden gesteld en nog makkelijker te laten worden beantwoord door andere experts.</p>
 	<strong>Technologie heeft de toekomst</strong>
-	<p>‘In vergelijking tot het buitenland, maakt de Nederlandse zorg veel gebruik van eHealth-toepassingen. Bij technologie in de zorg gaat het onder andere om beeldcommunicatie, monitoring, zelfzorg, robotisering, big data, edutainment en allerlei digitale platforms voor medische samenwerking. De zorgmedewerkers van de toekomst zijn opgegroeid in een sterk gedigitaliseerde omgeving en zij gebruiken technologie om meer zorg op afstand te leveren en om samen te werken met collega zorgprofessionals van verschillende organisaties.’ [2]</p>
+	<p>'In vergelijking tot het buitenland, maakt de Nederlandse zorg veel gebruik van eHealth-toepassingen. Bij technologie in de zorg gaat het onder andere om beeldcommunicatie, monitoring, zelfzorg, robotisering, big data, edutainment en allerlei digitale platforms voor medische samenwerking. De zorgmedewerkers van de toekomst zijn opgegroeid in een sterk gedigitaliseerde omgeving en zij gebruiken technologie om meer zorg op afstand te leveren en om samen te werken met collega zorgprofessionals van verschillende organisaties.' [2]</p>
 	<p>Deze trend is een megatrend, wat betekent dat deze trend van 10 tot 30 jaar zal duren en verandering met zich meebrengt op maatschappelijk niveau. Deze verandering zal zich uiten door bijvoorbeeld andere werkprocessen.</p>
 	<p>Mede doordat het werkveld zich evolueert en meer gaat digitaliseren en meer met technologie gaat werken is dit iets wat relevant is voor het product. Zo kan hier bijvoorbeeld op ingespeeld worden door het gemakkelijker maken van het stellen van vragen. Hiernaast zullen er meer gebruikers online zijn doordat de zorg digitaliseert.</p>
 	<strong>Kennis op maat maakt en deelt u samen</strong>
-	<p>‘De vraagstukken in de (ouderen)zorg worden steeds complexer. Het onderscheid tussen kennisontwikkelaars, -verspreiders en –gebruikers verdwijnt. Daarvoor in de plaats komt een grote variatie aan ontwikkelaars en gebruikers die in (vaak lokale/regionale) netwerkverbanden nauw samenwerken aan het ontwikkelen, aanbieden en gebruiken van kennis. Zorgorganisaties en maatschappelijke initiatieven geven ook steeds vaker zelf invulling aan de kennisfunctie.’ [2]</p>
+	<p>'De vraagstukken in de (ouderen)zorg worden steeds complexer. Het onderscheid tussen kennisontwikkelaars, -verspreiders en –gebruikers verdwijnt. Daarvoor in de plaats komt een grote variatie aan ontwikkelaars en gebruikers die in (vaak lokale/regionale) netwerkverbanden nauw samenwerken aan het ontwikkelen, aanbieden en gebruiken van kennis. Zorgorganisaties en maatschappelijke initiatieven geven ook steeds vaker zelf invulling aan de kennisfunctie.' [2]</p>
 	<p>Deze trend is een microtrend, wat betekent dat deze trend tot 5 jaar zal gaan duren en verandering met zich meebrengt op marktniveau. Deze verandering zal zich uiten door bijvoorbeeld diverse platformen om kennis te delen over de zorg.</p>
 	<p>Mede doordat er meer behoefte aan persoonlijke antwoorden is dit iets wat relevant is voor het product. Zo kan hier bijvoorbeeld op ingespeeld worden door het stellen van vragen en het platform uiteindelijk publiek maken.</p>
 	<strong>Consumer Trend Canvas</strong>
-	<p>Er is een consumer trend canvas[3] gemaakt voor de trend ‘Kennis op maat maakt en deelt u samen’ mede doordat deze trend erg relevant is voor het product.</p>
+	<p>Er is een consumer trend canvas[3] gemaakt voor de trend 'Kennis op maat maakt en deelt u samen' mede doordat deze trend erg relevant is voor het product.</p>
 	<Image imgURL="https://i.gyazo.com/a97a72974c6792a7a76da371d54bde94.jpg" imgALT="Trend analyse consumer trend canvas" linkURL="https://drive.google.com/file/d/1LnfU7WJUgo9D2dLPDV0niNqsZnG-_kIJ/" />
 	<h2>Conclusie</h2>
 	<p>
@@ -328,7 +328,7 @@
 		Duidelijkheid van welke belanghebbende en kosten er zijn met dit product is er nu. Daarnaast was er nog niet
 		over nagedacht hoe het product waarde creëert voor de verschillende klanten en belanghebbende. Zo is het voor
 		PIDZ belangrijk dat het product er is om meer gebruikers aan te trekken voor het platform en deze te behouden.
-		De ZZP’ers in de zorg hebben verschillende vragen en door het product wordt het gemakkelijker om deze vragen te
+		De ZZP'ers in de zorg hebben verschillende vragen en door het product wordt het gemakkelijker om deze vragen te
 		stellen en te beantwoorden op een overzichtelijke manier.
 	</p>
 	<h2>Verantwoording</h2>
@@ -379,26 +379,48 @@
 	<p></p>
 {:else if product.link === 'peer-feedback'}
 	<h2>Aanleiding</h2>
-	<p></p>
+	<p>Om mijzelf als student en 'young professional' te verbeteren en de leren waar mijn sterke en zwakke punten zitten en andere feedback te geven is er met een deel van de groep besloten om elkaar feedback te geven.</p>
 	<h2>Aanpak</h2>
-	<p></p>
+	<p>Er is peer feedback gegeven op basis van een template dat vorige semesters is uitgegeven door Fontys om studenten elkaar feedback te laten geven. Op deze manier kan er van elkaar geleerd worden en gereflecteerd worden op het project en semester.</p>
 	<h2>Uitvoering</h2>
-	<p></p>
-	<h2>Conclusie</h2>
-	<p></p>
+	<p>De volgende feedback is ontvangen:</p>
+	<strong>Goede punten en verbeter punten</strong>
+	<Image imgURL="https://i.gyazo.com/cc8df31be8fccbb07cb56a9db15fc4bb.png" imgALT="Peer feedback - Goede punten en verbeter punten" linkURL="https://docs.google.com/spreadsheets/d/17nIqFTNfJ9cjCEHuEAijHDlhc5ORw_TrrdCAHOkSuk8/" />
+	<strong>Feedback Dylano Hartman</strong>
+	<Image imgURL="https://i.gyazo.com/f99648fd2dd939b36f35836a0511bf57.png" imgALT="Peer feedback - Feedback Dylano Hartman" linkURL="https://docs.google.com/spreadsheets/d/17nIqFTNfJ9cjCEHuEAijHDlhc5ORw_TrrdCAHOkSuk8/edit#gid=710680365" />
+	<strong>Feedback Mark Hendriks</strong>
+	<Image imgURL="https://i.gyazo.com/ddf44545116bca280675bdf6d214e882.png" imgALT="Peer feedback - Feedback Mark Hendriks" linkURL="https://docs.google.com/spreadsheets/d/17nIqFTNfJ9cjCEHuEAijHDlhc5ORw_TrrdCAHOkSuk8/edit#gid=1728634695" />
+	<strong>Feedback Mike Hendriks</strong>
+	<Image imgURL="https://i.gyazo.com/98ec410484ac4f9ccc3308f3bbe4142f.png" imgALT="Peer feedback - Feedback Mike Hendriks" linkURL="https://docs.google.com/spreadsheets/d/17nIqFTNfJ9cjCEHuEAijHDlhc5ORw_TrrdCAHOkSuk8/edit#gid=1127562872" />
+	<strong>Feedback Bart van de Klundert</strong>
+	<Image imgURL="https://i.gyazo.com/4fbd7df51d197d2d9c87e628cd3aec36.png" imgALT="Peer feedback - Feedback Bart van de Klundert" linkURL="https://docs.google.com/spreadsheets/d/17nIqFTNfJ9cjCEHuEAijHDlhc5ORw_TrrdCAHOkSuk8/edit#gid=389252453" />
+	<p>De volgende feedback is gegeven:</p>
+	<Image imgURL="https://i.gyazo.com/f2a0a2ca48cc17705cdb25518fc2457a.png" imgALT="Peer feedback - Gegeven feedback" linkURL="https://docs.google.com/spreadsheets/d/17nIqFTNfJ9cjCEHuEAijHDlhc5ORw_TrrdCAHOkSuk8/" />
+	<h2>Reflectie</h2>
+	<p>De verkregen feedback van mijn peers was erg goed ontvangen doordat ik zelf mijn sterke en zwakkere punten van dit semester erin zag. Zo was mijn motivitie en daarbij ook mijn productiviteit wat minder wat de andere ook wel zagen. Het leiden van de groep en het initiatief nemen bij diverse dingen zie ik ook wel terug in mijzelf wat fijn is om te horen. Waar ik aan ga werken is het beter communiceren van mijn bedoelingen en mijn 'status' (m.b.t. het afwezig zijn).</p>
 	<h2>Verantwoording</h2>
-	<p></p>
+	<p>Er is feedback ontvangen en gegeven aan het grootste deel van de groep: Dylano Hartman, Mark Hendriks, Mike Hendriks en Bart van de Klundert. Noël Herwig en Timo van de Laar hebben geen feedback ontvangen of gegeven doordat ze het niet relevant vonden.</p>
+	<!-- Spreadsheet: https://docs.google.com/spreadsheets/d/17nIqFTNfJ9cjCEHuEAijHDlhc5ORw_TrrdCAHOkSuk8/ -->
 {:else if product.link === 'adviesrapport'}
 	<h2>Aanleiding</h2>
-	<p></p>
+	<p>Om de onderzoeken van alle drie de sub-groepen van De Sigaar samen te vatten en behapbaar te maken voor PIDZ is er een adviesrapport opgesteld met onze adviezen.</p>
 	<h2>Aanpak</h2>
-	<p></p>
+	<p>Mede doordat het de laatste week was van het project is er voor gekozen om mij het adviesrapport grotendeels te laten maken. De input van de sub-groepen was nodig om hun onderzoeksopzet, resultaten en conclusies te maken waarna ik het document 1 geheel kon maken.</p>
 	<h2>Uitvoering</h2>
-	<p></p>
+	<p>Ik ben begonnen met het kijken naar hoe ik een adviesrapport kan maken. Zo was er een 'perfect adviesrapport' van Scribbr [1] die ik als basis heb gebruikt om het adviesrapport te maken. Hierna ben ik begonnen met het opzetten van de globale dingen, zoals de inleiding van de opdrachtgever en de opdracht, waarna ik aan de sub-groepen heb gevraagd om hun stukjes te schrijven. Hierna heb ik hieroverheen gelezen waarbij ik feedback heb gegeven om de tekst en verbeteringen heb doorgevoerd. Als laatst heb ik het document van een simpelweg google <a href="https://docs.google.com/document/d/18CDEe6Pf5EhB5r3azcfRIpL8-jm6IzIlSznYHjGsFjc/" target="_blank" rel="noopener">document</a> een mooie presentable document gemaakt.</p>
+	<Image imgURL="https://i.gyazo.com/2dcafedcdd12dc7934baf9e0ea760606.jpg" imgALT="Adviesrapport - Product" linkURL="https://drive.google.com/file/d/1uuAZwHHKi-mwhcmtaccib7ImcWya28s9/" />
 	<h2>Conclusie</h2>
-	<p></p>
+	<p>Om de adviezen te realiseren moeten de diverse onderdelen gezamenlijk onder het WijPIDZ platform worden gerealiseerd van concept naar product. Daarnaast zal er via diverse media duidelijk moeten worden gemaakt dat het delen van kennis onderdeel in WijPIDZ zit en welk probleem dit oplost om gebruikers gebruik te laten maken van het onderdeel.</p>
+	<p>Er moet onderzoek gedaan worden naar affiliate marketing voor het onderdeel inkopen van goederen en diensten om zo connecties te maken met leveranciers. Als laatste is het belangrijk om de social media kanalen van PIDZ in te zetten om bekendheid voor het WijPIDZ platform te creëren. Het aanbod voor verschillende opleidingen en cursussen zal moeten worden verkregen door affiliate marketing. De niet-PIDZ leden, die gebruik maken van het opleidingen en cursussen onderdeel, moeten door middel van call-to-actions de voordelen voor PIDZ-leden gaan inzien en lid worden.</p>
+	<p>Het WijPIDZ platform met de onderdelen, die diverse problemen van zelfstandige zorgprofessionals oplost, is het makkelijkst te realiseren door de adviezen na te leven om zo een waardevol WijPIDZ platform te creëren voor zowel de gebruiker als PIDZ.</p>
 	<h2>Verantwoording</h2>
-	<p></p>
+	<p>Grotendeels uitgevoerd door mijzelf. Stukjes tekst van andere sub-groepen overgeleven en aangepast waar nodig om verhaal lopend te houden.</p>
+	<h2>Bronnen</h2>
+	<ul>
+		<li>Benders, L. (2020, 21 april). Schrijf een perfect adviesrapport. Scribbr. <a href="https://www.scribbr.nl/stage/schrijf-een-perfect-adviesrapport/" target="_blank" rel="noopener">https://www.scribbr.nl/stage/schrijf-een-perfect-adviesrapport/</a></li>
+	</ul>
+	<!-- Document: https://docs.google.com/document/d/18CDEe6Pf5EhB5r3azcfRIpL8-jm6IzIlSznYHjGsFjc/ -->
+	<!-- Product: https://drive.google.com/file/d/1uuAZwHHKi-mwhcmtaccib7ImcWya28s9/ -->
 {:else}
 	<p>Huh, product niet gevonden? Probeer het later nog eens of check of dit wel de goede link is!</p>
 {/if}

@@ -58,7 +58,7 @@
 			"type": "page",
 			"includeInShowcase": true,
 			"emoji": "📈",
-			"title": "Trend analyse (1/2)",
+			"title": "Trend analyse",
 			"link": "trend-analyse"
 		},
 		{
@@ -114,14 +114,14 @@
 			"type": "page",
 			"includeInShowcase": true,
 			"emoji": "👥",
-			"title": "Peer feedback (0/2)",
+			"title": "Peer feedback",
 			"link": "peer-feedback"
 		},
 		{
 			"type": "page",
 			"includeInShowcase": true,
 			"emoji": "🧾",
-			"title": "Adviesrapport (0/2)",
+			"title": "Adviesrapport",
 			"link": "adviesrapport"
 		}
 	]
