@@ -49,6 +49,18 @@
 		z-index: -1;
 	}
 
+	.top::after {
+		content: "";
+		position: absolute;
+		left: 0;
+		right: 0;
+		top: 100%;
+		width: 100%;
+		height: 25px;
+		background: linear-gradient(var(--primary), rgba(0, 0, 0, 0));
+		transition: background var(--transition-speed) var(--transition-timing);
+	}
+
 	.header {
 		width: 100%;
 		display: flex;
