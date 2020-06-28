@@ -398,10 +398,12 @@
 	<strong>ZZP'ers van PIDZ</strong>
 	<p>De eerste ronde was succesvol met 5 verschillende personen die het prototype via Useberry hebben getest. Er waren 3 personen die niet het beste antwoord konden selecteren bij een vraag die zij stelde. 2 personen waren erg te spreken van het component en gaven feedback zoals: 'Het enige waar ik tegenaan liep dat het even zoeken was om een opmerking te liken en dat het niet echt een logische en duidelijke knop voor was.' Dit was ook terug te zien in de recordings van de personen. Om deze reden is het selecteren van het meest geholpen antwoord verbeterd.</p>
 	<Image imgURL="https://i.gyazo.com/f51bfa2b502626e161fdce6135cc1f05.jpg" imgALT="Usability test - Antwoord op vraag" linkURL="https://drive.google.com/file/d/1A1DrlNOKvF8Gj0-UkvcnVNbW5Na65xuA/" />
+	<Image imgURL="https://i.gyazo.com/85d8385b7719ec1dca022755e1d69878.jpg" imgALT="Usability test - Antwoord op vraag juist" linkURL="https://drive.google.com/file/d/1gyv98OeNigB7yd-ppyuORPE79CUUEH32/" />
 	<strong>Diverse personen</strong>
-	<p></p>
+	<p>De tweede ronde ging ongeveer hetzelfde als de eerste. Hierbij werden er wel enkele testen afgenomen op locatie (bv ouders) en hieruit kwam dat het platform werd gebruikt zoals gepland. Daarnaast waren de verbeteringen van de antwoorden goed te zien in het gemakkelijke gebruik.</p>
 	<h2>Conclusie</h2>
-	<p>Ten eerste was het lastig voor de ZZP'ers van PIDZ om Useberry te gebruiken. Ze lazen volgensmij niet de opdracht waardoor ze willekeurig een beetje gingen rondklikken. </p>
+	<p>Ten eerste was het lastig voor de ZZP'ers van PIDZ om Useberry te gebruiken. Ze lazen volgensmij niet de opdracht waardoor ze willekeurig een beetje gingen rondklikken. Het was dus een groot nadeel om Useberry te gebruiken in plaats van de reguliere on-site thinking aloud test. De resultaten van de test zijn wel meegenomen bij de tweede ronde waaruit kwam dat het platform goed te gebruiken was. Mede doordat dit deels on-site werd gedaan.</p>
+	<Image imgURL="https://i.gyazo.com/152019f5c434e4efb9cc5e78456d58f4.png" imgALT="Usability test - Ronde 1 testresultaten" linkURL="https://gyazo.com/152019f5c434e4efb9cc5e78456d58f4" />
 	<h2>Verantwoording</h2>
 	<p>Het testplan is gemaakt door mijzelf. De testen zijn ook uitgevoerd door mijzelf. Het prototype is gemaakt met de groep bestaande uit Dylano Hartman, Mark Hendriks en mijzelf. De iteraties zijn ook door mijzelf gemaakt.</p>
 	<h2>Bronnen</h2>
