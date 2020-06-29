@@ -403,7 +403,7 @@
 	<p>De tweede ronde ging ongeveer hetzelfde als de eerste. Hierbij werden er wel enkele testen afgenomen op locatie (bv ouders) en hieruit kwam dat het platform werd gebruikt zoals gepland. Daarnaast waren de verbeteringen van de antwoorden goed te zien in het gemakkelijke gebruik.</p>
 	<h2>Conclusie</h2>
 	<p>Ten eerste was het lastig voor de ZZP'ers van PIDZ om Useberry te gebruiken. Ze lazen volgensmij niet de opdracht waardoor ze willekeurig een beetje gingen rondklikken. Het was dus een groot nadeel om Useberry te gebruiken in plaats van de reguliere on-site thinking aloud test. De resultaten van de test zijn wel meegenomen bij de tweede ronde waaruit kwam dat het platform goed te gebruiken was. Mede doordat dit deels on-site werd gedaan.</p>
-	<Image imgURL="https://i.gyazo.com/152019f5c434e4efb9cc5e78456d58f4.png" imgALT="Usability test - Ronde 1 testresultaten" linkURL="https://gyazo.com/152019f5c434e4efb9cc5e78456d58f4" />
+	<Image imgURL="https://i.gyazo.com/152019f5c434e4efb9cc5e78456d58f4.png" imgALT="Usability test - Ronde 1 testresultaten" linkURL="https://drive.google.com/file/d/1Eba2Ls2FLnQKkmnhTf4Ha3TW1sCVekV1/" />
 	<h2>Verantwoording</h2>
 	<p>Het testplan is gemaakt door mijzelf. De testen zijn ook uitgevoerd door mijzelf. Het prototype is gemaakt met de groep bestaande uit Dylano Hartman, Mark Hendriks en mijzelf. De iteraties zijn ook door mijzelf gemaakt.</p>
 	<h2>Bronnen</h2>
@@ -424,15 +424,36 @@
 	<!-- Video: https://web.microsoftstream.com/video/f5a514d9-5646-4b1d-9821-9ce1c8d36e93 -->
 {:else if product.link === 'communicatiestrategie'}
 	<h2>Aanleiding</h2>
-	<p></p>
+	<p>Om de doelgroep van het WijPIDZ platform naar het onderdeel Delen van kennis te krijgen is er een communicatiestrategie gemaakt. Mede doordat het onderdeel gebruikers nodig heeft om het aantrekkelijk te maken om het te gebruiken is het belangrijk gebruikers te werven en te behouden.</p>
 	<h2>Aanpak</h2>
-	<p></p>
+	<p>Om een goede communicatiestrategie te maken moet er gekeken worden naar wie de doelgroep is en welke waardes zij hebben. Door het volgen van de workshop communicatiestrategie [1] gegeven door Suzanne van Kuijk is er een communicatiestrategie gemaakt. Zo zijn er onderdelen van de workshop meegenomen in de uiteindelijke uitwerking.</p>
 	<h2>Uitvoering</h2>
+	<strong>Doelgroep</strong>
+	<p>Vanuit PIDZ is er een customer profile meegeleverd uit onderzoek van hun. Dit is een beginpunt waarbij hun pains, gains en jobs beschreven zijn.</p>
+	<Image imgURL="https://i.gyazo.com/a1a3979ef88c1aed07cd4a5890417061.png" imgALT="Communicatiestrategie - PIDZ customer profile" linkURL="https://drive.google.com/file/d/1uqShRlO0njefy5UDKZomp9kuBZI7zBsd/" />
+	<p>Om een beter beeld te krijgen van wie dit dan precies zijn is er een persona gemaakt op basis van de customer profile en andere onderzoeken. Zo is er bijvoorbeeld onderzocht wat voor kwaliteiten en media een ZZP'er in de zorg heeft en gebruikt. Zo is er gebleken uit onderzoek [2] dat zorgverleners passie moeten hebben, bescheiden zijn, empathie hebben, goed kunnen communiceren en goed zijn in problemen oplossen. Daarnaast zijn er pijnpunten voor ZZP'ers zoals uit onderzoek [3] bleek: ze zijn eenzaam en hebben behoefte aan communicatie.</p>
+	<strong>Persona</strong>
+	<Image imgURL="https://i.gyazo.com/cd5b719cd08d7b14a8fc07e10e34cf84.png" imgALT="Communicatiestrategie - Persona" linkURL="https://drive.google.com/file/d/1mMdUi_27jXW8hnkRNMnU-0uSED9m-dwR/" />
+	<strong>Doelstellingen</strong>
+	<strong>Metrics</strong>
+	<strong>Boodschap</strong>
+	<strong>Strategie</strong>
+	<strong>Timeframe</strong>
+	<strong>Media</strong>
+	<!-- Lokaal @ zorginstellinge -->
+	<!-- Artikelen over ZZP'ers in de zorg en beginnen -->
+	<strong>Roadmap</strong>
 	<p></p>
 	<h2>Conclusie</h2>
 	<p></p>
 	<h2>Verantwoording</h2>
-	<p></p>
+	<p>Volledige uitgevoerd door mijzelf.</p>
+	<h2>Bronnen</h2>
+	<ul>
+		<li>[1] Microsoft Stream. (2020, 24 april). Communicatiestrategie. Geraadpleegd 23 juni 2020, van <a href="https://web.microsoftstream.com/video/f5aa5c46-6909-448d-87a1-98a54d076797" target="_blank" rel="noopener">https://web.microsoftstream.com/video/f5aa5c46-6909-448d-87a1-98a54d076797</a></li>
+		<li>[2] K. (2019, 26 maart). Important Qualities Healthcare Workers Should Have. Pioneer Pacific College. Geraadpleegd op 23 juni 2020, van <a href="https://www.pioneerpacific.edu/blog/important-qualities-healthcare-workers-should-have/" target="_blank" rel="noopener">https://www.pioneerpacific.edu/blog/important-qualities-healthcare-workers-should-have/</a></li>
+		<li>[3] Team, C. (2020, 19 maart). Freelancer workers are lonely, anxious & depressed says survey. Geraadpleegd op 23 juni 2020, van <a href="https://workinmind.org/2019/11/06/freelancer-workers-are-lonely-anxious-depressed-says-survey/" target="_blank" rel="noopener">https://workinmind.org/2019/11/06/freelancer-workers-are-lonely-anxious-depressed-says-survey/</a></li>
+	</ul>
 {:else if product.link === 'peer-feedback'}
 	<h2>Aanleiding</h2>
 	<p>Om mijzelf als student en 'young professional' te verbeteren en de leren waar mijn sterke en zwakke punten zitten en andere feedback te geven is er met een deel van de groep besloten om elkaar feedback te geven.</p>
