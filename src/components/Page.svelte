@@ -433,19 +433,37 @@
 	<Image imgURL="https://i.gyazo.com/a1a3979ef88c1aed07cd4a5890417061.png" imgALT="Communicatiestrategie - PIDZ customer profile" linkURL="https://drive.google.com/file/d/1uqShRlO0njefy5UDKZomp9kuBZI7zBsd/" />
 	<p>Om een beter beeld te krijgen van wie dit dan precies zijn is er een persona gemaakt op basis van de customer profile en andere onderzoeken. Zo is er bijvoorbeeld onderzocht wat voor kwaliteiten en media een ZZP'er in de zorg heeft en gebruikt. Zo is er gebleken uit onderzoek [2] dat zorgverleners passie moeten hebben, bescheiden zijn, empathie hebben, goed kunnen communiceren en goed zijn in problemen oplossen. Daarnaast zijn er pijnpunten voor ZZP'ers zoals uit onderzoek [3] bleek: ze zijn eenzaam en hebben behoefte aan communicatie.</p>
 	<strong>Persona</strong>
-	<Image imgURL="https://i.gyazo.com/cd5b719cd08d7b14a8fc07e10e34cf84.png" imgALT="Communicatiestrategie - Persona" linkURL="https://drive.google.com/file/d/1mMdUi_27jXW8hnkRNMnU-0uSED9m-dwR/" />
+	<Image imgURL="https://i.gyazo.com/8ee7bb971e25d41612bb47c9a859bbf2.png" imgALT="Communicatiestrategie - Persona" linkURL="https://drive.google.com/file/d/1mMdUi_27jXW8hnkRNMnU-0uSED9m-dwR/" />
 	<strong>Doelstellingen</strong>
+	<p>Om gebruikers naar het WijPIDZ platform te krijgen moeten er eerst gebruikers komen. Dit wordt gedaan door het Hook model hieronder te volgen.</p>
+	<Image imgURL="https://i.gyazo.com/9d83784e9a901da47d64793173047672.jpg" imgALT="Communicatiestrategie - The Hook model" linkURL="https://drive.google.com/file/d/1g2aGGJ_4tc08liey0P0rJ498K-swSJGJ/" />
+	<p>Om te zien waar er met de gebruikers kan worden gecommuniceerd of waar mogelijke touchpoints zijn is er deze marketing funnel hieronder gemaakt.</p>
+	<Image imgURL="https://i.gyazo.com/613d8b27f1565d69e2f46daa6fa2b79d.png" imgALT="Communicatiestrategie - Touchpoints" linkURL="https://drive.google.com/file/d/1HqXMVqbmEb2IeqW9b56KuBSGVZnJIzlo/" />
 	<strong>Metrics</strong>
+	<p>Om te zien hoe actief de community is kan er gekeken worden naar de volgende dingen:</p>
+	<ul>
+		<li>Aantal keer dat een vraag of antwoord is gedeeld;</li>
+		<li>Aantal keer dat een bericht is verzonden in de chat;</li>
+		<li>Aantal kliks op een vraag;</li>
+		<li>Aantal vragen of antwoorden die gepost worden;</li>
+		<li>Aantal connecties van een gebruiker;</li>
+		<li>Tijd die een gebruiker op WijPIDZ is.</li>
+	</ul>
 	<strong>Boodschap</strong>
-	<strong>Strategie</strong>
-	<strong>Timeframe</strong>
+	<p>Voor zelfstandige zorgprofessionals die lid zijn van PIDZ die met andere zelfstandige zorgprofessionals in contact willen komen en hun vragen willen stellen is er het onderdeel delen van kennis op het WijPIDZ platform waarmee je met andere zelfstandige zorgprofessionals kennis kunt delen en vergaren en in contact kunt komen met elkaar.</p>
 	<strong>Media</strong>
-	<!-- Lokaal @ zorginstellinge -->
-	<!-- Artikelen over ZZP'ers in de zorg en beginnen -->
-	<strong>Roadmap</strong>
-	<p></p>
+	<p>PIDZ kan de volgende media gebruiken om de doelen te behalen:</p>
+	<ul>
+		<li><strong>Advertenties @ zorginstellingen</strong> - Er kan worden geadverteerd waar de zorgprofessionals zich het meeste begeven. Hiermee kan bewustzijn van PIDZ en de platformen die ze aanbieden worden gecreëerd.</li>
+		<li><strong>Online advertenties</strong> - Er kan ook online worden geadverteerd om zo de doelgroep op de social media naar keuze aan te spreken. Hiermee kan ook bewustzijn worden opgewekt.</li>
+		<li><strong>Artikelen over (beginnende) zorgprofessionals</strong> - Er kan informatie worden verstrekt over de platformen van PIDZ door blogs en andere sites over hun te laten schrijven. Hierdoor wordt er meer bewustzijn en meer informatie over de platformen verspreidt.</li>
+		<li><strong>Nieuwsbrief</strong> - Er zijn bijna 10 duizend leden van PIDZ waar maar 30% actief van is. Door een nieuwsbrief komen zorgprofessionals wellicht terug door ze te re-engage en te laten weten dat PIDZ bezig is met hun platformen die problemen oplossen waardoor ze wellicht zijn gestopt.</li>
+	</ul>
+	<strong>Propositie</strong>
+	<p>Om de propositie tussen het gemaakte customer profile van PIDZ en mijn value proposition uit mijn <a href="https://portfolio.maxaltena.com/S6/project2/business-model/">Business Model</a> tegenover elkaar te zetten is hieronder een diagram van deze twee. Hierin staan de gain creators, pain relievers en de producten/services tegenover de gains, pains en jobs.</p>
+	<Image imgURL="https://i.gyazo.com/5f6beb4ca4a02e1c3590d0f076caf9c9.png" imgALT="Communicatiestrategie - Propositie" linkURL="https://drive.google.com/file/d/1sKvGuvhQDJLzAkHPbW4WBSM160AdD2ar/" />
 	<h2>Conclusie</h2>
-	<p></p>
+	<p>Het is belangrijk om een goede strategie te hebben om zo te weten hoe je aan gebruikers/customers komt en hoe je deze kunt houden. Daarnaast kwam uit de strategie dat er een mix van online en offline middelen kan worden gebruikt om de doelgroep aan te spreken.</p>
 	<h2>Verantwoording</h2>
 	<p>Volledige uitgevoerd door mijzelf.</p>
 	<h2>Bronnen</h2>
