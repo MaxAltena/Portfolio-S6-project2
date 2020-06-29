@@ -97,7 +97,7 @@
 	<!-- Document: https://docs.google.com/document/d/1B72THVl9YhjZ31yR2HV3yRjraJ3dRZxR8hy1BSFYTHg/ -->
 {:else if product.link === 'individuele-analyse'}
 	<h2>Aanleiding</h2>
-	<p>Om de opdracht goed te analyseren is er een individuele analyse gemaakt. Zo konden gedachtes van mijn hoofd naar (digitaal) papier worden geschreven om deze te vast te leggen. Dit heeft ieder groepslid individueel gedaan om zo onze eigen kijk op de opdracht op te schrijven.</p>
+	<p>Om de opdracht goed te analyseren is er een individuele analyse gemaakt. Zo konden gedachten van mijn hoofd naar (digitaal) papier worden geschreven om deze te vast te leggen. Dit heeft ieder groepslid individueel gedaan om zo onze eigen kijk op de opdracht op te schrijven.</p>
 	<h2>Aanpak</h2>
 	<p>Om een goede eerste probleemanalyse te doen moet er gekeken worden naar: de opdracht, de probleemstelling, het doel, de onderzoeksaspecten, de uitvoering van het project, de aanpak van het project, het gewenste eindresultaat en de oplossing voor het probleem.</p>
 	<h2>Uitvoering</h2>
@@ -123,7 +123,7 @@
 	<p>Ik ben bezig geweest met een klein stukje over het bedrijf waarna ik verder ben gegaan aan de onderzoeksvragen en tussenproducten van het project. Daarna ben ik nog bezig geweest met het opschrijven van mogelijk risico's bij dit project voortvloeiend vanuit de opdrachtgever (PIDZ) en de COVID-19 situatie. Als laatste is er een scope gemaakt om aan te geven wat er wel en niet wordt gedaan. Uiteindelijk heb ik nog een document gemaakt die presenteerbaar is aan de opdrachtgever en andere belanghebbende en deze is <a href="https://drive.google.com/file/d/1W3pQmaGTDD5zAzJbFJD6kxCq9ikSFPGc/" target="_blank" rel="noopener">hier</a> te vinden.</p>
 	<Image imgURL="https://i.gyazo.com/17c2a92ba8880c5d0814fe70da46102c.jpg" imgALT="Projectplan document" linkURL="https://drive.google.com/file/d/1W3pQmaGTDD5zAzJbFJD6kxCq9ikSFPGc/" />
 	<h2>Conclusie</h2>
-	<p>De opdracht, probleemstelling en het doel van het project zijn redelijk hetzelfde gebleven als in de <a href="https://portfolio.maxaltena.com/S6/project2/individuele-analyse/">individuele analyse</a>. De onderzoeksvragen en de tussenproducten zijn daarnaast wel wat bijgescherpt door de behoefte van de opdrachtgever waar de volgende punten uitkwamen:</p>
+	<p>De opdracht, probleemstelling en het doel van het project zijn redelijk hetzelfde gebleven als in de <a href="https://portfolio.maxaltena.com/S6/project2/individuele-analyse/">individuele analyse</a>. De onderzoeksvragen en de tussenproducten zijn daarnaast wel wat aangescherpt door de behoefte van de opdrachtgever waar de volgende punten uitkwamen:</p>
 	<ul>
 		<li><strong>Wat doet de concurrentie?</strong> - Met deze vraag wordt er te weten gekomen wat de concurrentie al heeft en wat er mist. Dit zal gedaan worden door middel van een concurrentie analyse. Vanaf dit punt kunnen er concepten worden bedacht die aansluiten bij de gebruiker, door het onderzoek gedaan door PIDZ, en die meer bieden dan wat de concurrent heeft, door het de concurrentie analyse.</li>
 		<li><strong>Wat zijn USP's van de concepten?</strong> - Om de waarde van het product in te kunnen schatten, zijn de USP's van de concepten erg belangrijk te analyseren. Hierbij kan ook al gekeken worden naar een mogelijk business model.</li>
@@ -376,10 +376,10 @@
 	<p>Doordat er meer content in op het platform delen van kennis kwam dan eerst gedacht, is de zoekbalk van rechts in de column naar boven verplaatst. Daarnaast is er door meer content ook vraag naar specifieker zoeken.</p>
 	<Image imgURL="https://i.gyazo.com/710bfa2cf0828850f1e438ea6c3a304d.jpg" imgALT="Ontwerpen - Zoekbalk" linkURL="https://drive.google.com/file/d/14FXl29lsMpJS3jDYcH3QL2QxZiJDRooH/" />
 	<strong>Antwoord op vraag</strong>
-	<p>Om het duidelijker te maken hoe je een antwoord selecteert als het meest geholpen antwoord is er voor gekozen het duidelijker te maken hoe je deze kunt selecteren. Daarnaast is de titel weggehaalt omdat er geen behoefte aan was in een antwoord.</p>
+	<p>Om het duidelijker te maken hoe je een antwoord selecteert als het meest geholpen antwoord is er voor gekozen het duidelijker te maken hoe je deze kunt selecteren. Daarnaast is de titel weggehaald omdat er geen behoefte aan was in een antwoord.</p>
 	<Image imgURL="https://i.gyazo.com/f51bfa2b502626e161fdce6135cc1f05.jpg" imgALT="Ontwerpen - Antwoord op vraag" linkURL="https://drive.google.com/file/d/1A1DrlNOKvF8Gj0-UkvcnVNbW5Na65xuA/" />
 	<h2>Conclusie</h2>
-	<p>Het ontwerpen ging goed en voorspoedig doordat er met z'n drie aan werd gewerkt. Product is gemakkelijk gevisualseerd door middel van Adobe XD.</p>
+	<p>Het ontwerpen ging goed en voorspoedig doordat er met z'n drie aan werd gewerkt. Product is gemakkelijk gevisualiseerd door middel van Adobe XD.</p>
 	<h2>Verantwoording</h2>
 	<p>Het uiteindelijke ontwerp is een fusie van alle 3 de concepten van Dylano Hartman, Mark Hendriks en mij. Ik heb bijvoorbeeld de hoofdpagina opnieuw ontworpen, een vraag stellen flow ontworpen en het inzien van vragen gemaakt.</p>
 	<h2>Bronnen</h2>
@@ -402,7 +402,7 @@
 	<strong>Diverse personen</strong>
 	<p>De tweede ronde ging ongeveer hetzelfde als de eerste. Hierbij werden er wel enkele testen afgenomen op locatie (bv ouders) en hieruit kwam dat het platform werd gebruikt zoals gepland. Daarnaast waren de verbeteringen van de antwoorden goed te zien in het gemakkelijke gebruik.</p>
 	<h2>Conclusie</h2>
-	<p>Ten eerste was het lastig voor de ZZP'ers van PIDZ om Useberry te gebruiken. Ze lazen volgensmij niet de opdracht waardoor ze willekeurig een beetje gingen rondklikken. Het was dus een groot nadeel om Useberry te gebruiken in plaats van de reguliere on-site thinking aloud test. De resultaten van de test zijn wel meegenomen bij de tweede ronde waaruit kwam dat het platform goed te gebruiken was. Mede doordat dit deels on-site werd gedaan.</p>
+	<p>Ten eerste was het lastig voor de ZZP'ers van PIDZ om Useberry te gebruiken. Ze lazen volgens mij niet de opdracht waardoor ze willekeurig een beetje gingen rondklikken. Het was dus een groot nadeel om Useberry te gebruiken in plaats van de reguliere on-site thinking aloud test. De resultaten van de test zijn wel meegenomen bij de tweede ronde waaruit kwam dat het platform goed te gebruiken was. Mede doordat dit deels on-site werd gedaan.</p>
 	<Image imgURL="https://i.gyazo.com/152019f5c434e4efb9cc5e78456d58f4.png" imgALT="Usability test - Ronde 1 testresultaten" linkURL="https://drive.google.com/file/d/1Eba2Ls2FLnQKkmnhTf4Ha3TW1sCVekV1/" />
 	<h2>Verantwoording</h2>
 	<p>Het testplan is gemaakt door mijzelf. De testen zijn ook uitgevoerd door mijzelf. Het prototype is gemaakt met de groep bestaande uit Dylano Hartman, Mark Hendriks en mijzelf. De iteraties zijn ook door mijzelf gemaakt.</p>
@@ -456,7 +456,7 @@
 	<ul>
 		<li><strong>Advertenties @ zorginstellingen</strong> - Er kan worden geadverteerd waar de zorgprofessionals zich het meeste begeven. Hiermee kan bewustzijn van PIDZ en de platformen die ze aanbieden worden gecreëerd.</li>
 		<li><strong>Online advertenties</strong> - Er kan ook online worden geadverteerd om zo de doelgroep op de social media naar keuze aan te spreken. Hiermee kan ook bewustzijn worden opgewekt.</li>
-		<li><strong>Artikelen over (beginnende) zorgprofessionals</strong> - Er kan informatie worden verstrekt over de platformen van PIDZ door blogs en andere sites over hun te laten schrijven. Hierdoor wordt er meer bewustzijn en meer informatie over de platformen verspreidt.</li>
+		<li><strong>Artikelen over (beginnende) zorgprofessionals</strong> - Er kan informatie worden verstrekt over de platformen van PIDZ door blogs en andere sites over hun te laten schrijven. Hierdoor wordt er meer bewustzijn en meer informatie over de platformen verspreid.</li>
 		<li><strong>Nieuwsbrief</strong> - Er zijn bijna 10 duizend leden van PIDZ waar maar 30% actief van is. Door een nieuwsbrief komen zorgprofessionals wellicht terug door ze te re-engage en te laten weten dat PIDZ bezig is met hun platformen die problemen oplossen waardoor ze wellicht zijn gestopt.</li>
 	</ul>
 	<strong>Propositie</strong>
@@ -492,7 +492,7 @@
 	<p>De volgende feedback is gegeven:</p>
 	<Image imgURL="https://i.gyazo.com/f2a0a2ca48cc17705cdb25518fc2457a.png" imgALT="Peer feedback - Gegeven feedback" linkURL="https://docs.google.com/spreadsheets/d/17nIqFTNfJ9cjCEHuEAijHDlhc5ORw_TrrdCAHOkSuk8/" />
 	<h2>Reflectie</h2>
-	<p>De verkregen feedback van mijn peers was erg goed ontvangen doordat ik zelf mijn sterke en zwakkere punten van dit semester erin zag. Zo was mijn motivitie en daarbij ook mijn productiviteit wat minder wat de andere ook wel zagen. Het leiden van de groep en het initiatief nemen bij diverse dingen zie ik ook wel terug in mijzelf wat fijn is om te horen. Waar ik aan ga werken is het beter communiceren van mijn bedoelingen en mijn 'status' (m.b.t. het afwezig zijn).</p>
+	<p>De verkregen feedback van mijn peers was erg goed ontvangen doordat ik zelf mijn sterke en zwakkere punten van dit semester erin zag. Zo was mijn motivatie  en daarbij ook mijn productiviteit wat minder wat de andere ook wel zagen. Het leiden van de groep en het initiatief nemen bij diverse dingen zie ik ook wel terug in mijzelf wat fijn is om te horen. Waar ik aan ga werken is het beter communiceren van mijn bedoelingen en mijn 'status' (m.b.t. het afwezig zijn).</p>
 	<h2>Verantwoording</h2>
 	<p>Er is feedback ontvangen en gegeven aan het grootste deel van de groep: Dylano Hartman, Mark Hendriks, Mike Hendriks en Bart van de Klundert. Noël Herwig en Timo van de Laar hebben geen feedback ontvangen of gegeven doordat ze het niet relevant vonden.</p>
 	<!-- Spreadsheet: https://docs.google.com/spreadsheets/d/17nIqFTNfJ9cjCEHuEAijHDlhc5ORw_TrrdCAHOkSuk8/ -->
@@ -502,14 +502,14 @@
 	<h2>Aanpak</h2>
 	<p>Mede doordat het de laatste week was van het project is er voor gekozen om mij het adviesrapport grotendeels te laten maken. De input van de sub-groepen was nodig om hun onderzoeksopzet, resultaten en conclusies te maken waarna ik het document 1 geheel kon maken.</p>
 	<h2>Uitvoering</h2>
-	<p>Ik ben begonnen met het kijken naar hoe ik een adviesrapport kan maken. Zo was er een 'perfect adviesrapport' van Scribbr [1] die ik als basis heb gebruikt om het adviesrapport te maken. Hierna ben ik begonnen met het opzetten van de globale dingen, zoals de inleiding van de opdrachtgever en de opdracht, waarna ik aan de sub-groepen heb gevraagd om hun stukjes te schrijven. Hierna heb ik hieroverheen gelezen waarbij ik feedback heb gegeven om de tekst en verbeteringen heb doorgevoerd. Als laatst heb ik het document van een simpelweg google <a href="https://docs.google.com/document/d/18CDEe6Pf5EhB5r3azcfRIpL8-jm6IzIlSznYHjGsFjc/" target="_blank" rel="noopener">document</a> een mooie presentable document gemaakt.</p>
+	<p>Ik ben begonnen met het kijken naar hoe ik een adviesrapport kan maken. Zo was er een 'perfect adviesrapport' van Scribbr [1] die ik als basis heb gebruikt om het adviesrapport te maken. Hierna ben ik begonnen met het opzetten van de globale dingen, zoals de inleiding van de opdrachtgever en de opdracht, waarna ik aan de sub-groepen heb gevraagd om hun stukjes te schrijven. Hierna heb ik eroverheen gelezen waarbij ik feedback heb gegeven om de tekst en verbeteringen heb doorgevoerd. Als laatst heb ik het document van een simpelweg google <a href="https://docs.google.com/document/d/18CDEe6Pf5EhB5r3azcfRIpL8-jm6IzIlSznYHjGsFjc/" target="_blank" rel="noopener">document</a> een mooie presentable document gemaakt.</p>
 	<Image imgURL="https://i.gyazo.com/2dcafedcdd12dc7934baf9e0ea760606.jpg" imgALT="Adviesrapport - Product" linkURL="https://drive.google.com/file/d/1uuAZwHHKi-mwhcmtaccib7ImcWya28s9/" />
 	<h2>Conclusie</h2>
 	<p>Om de adviezen te realiseren moeten de diverse onderdelen gezamenlijk onder het WijPIDZ platform worden gerealiseerd van concept naar product. Daarnaast zal er via diverse media duidelijk moeten worden gemaakt dat het delen van kennis onderdeel in WijPIDZ zit en welk probleem dit oplost om gebruikers gebruik te laten maken van het onderdeel.</p>
 	<p>Er moet onderzoek gedaan worden naar affiliate marketing voor het onderdeel inkopen van goederen en diensten om zo connecties te maken met leveranciers. Als laatste is het belangrijk om de social media kanalen van PIDZ in te zetten om bekendheid voor het WijPIDZ platform te creëren. Het aanbod voor verschillende opleidingen en cursussen zal moeten worden verkregen door affiliate marketing. De niet-PIDZ leden, die gebruik maken van het opleidingen en cursussen onderdeel, moeten door middel van call-to-actions de voordelen voor PIDZ-leden gaan inzien en lid worden.</p>
 	<p>Het WijPIDZ platform met de onderdelen, die diverse problemen van zelfstandige zorgprofessionals oplost, is het makkelijkst te realiseren door de adviezen na te leven om zo een waardevol WijPIDZ platform te creëren voor zowel de gebruiker als PIDZ.</p>
 	<h2>Verantwoording</h2>
-	<p>Grotendeels uitgevoerd door mijzelf. Stukjes tekst van andere sub-groepen overgeleven en aangepast waar nodig om verhaal lopend te houden.</p>
+	<p>Grotendeels uitgevoerd door mijzelf. Stukjes tekst van andere sub-groepen overgelezen en aangepast waar nodig om verhaal lopend te houden.</p>
 	<h2>Bronnen</h2>
 	<ul>
 		<li>[1] Benders, L. (2020, 21 april). Schrijf een perfect adviesrapport. Scribbr. <a href="https://www.scribbr.nl/stage/schrijf-een-perfect-adviesrapport/" target="_blank" rel="noopener">https://www.scribbr.nl/stage/schrijf-een-perfect-adviesrapport/</a></li>

@@ -25,8 +25,10 @@
 	</h1>
 
 	<p in:fly="{{ ...animation, delay: (delay += 25) }}">
-		<a href="https://pidz.nl/" target="_blank">PIDZ</a> wil een systeem maken wat diverse problemen van ZZP’ers in de zorg aanpakt. De oplossing hiervoor is WijPIDZ,
-		een platform met verschillende componenten. Vandaar gingen wij, <a href="http://desigaar.com/" target="_blank">De Sigaar</a>, als ICT & Media Design’ers op onderzoek
+		<a href="https://pidz.nl/" target="_blank">PIDZ</a> wil een systeem maken wat diverse problemen van ZZP’ers in de
+		zorg aanpakt. De oplossing hiervoor is WijPIDZ,
+		een platform met verschillende componenten. Vandaar gingen wij, <a href="http://desigaar.com/" target="_blank">De
+			Sigaar</a>, als ICT & Media Design’ers op onderzoek
 		uit hoe we deze componenten gingen bedenken en ontwerpen.
 	</p>
 
@@ -74,9 +76,19 @@
 		Reflectie
 	</h1>
 
-	<p in:fly="{{ ...animation, delay: (delay += 25) }}">
-		(coming soon)
-	</p>
+	<p in:fly="{{ ...animation, delay: (delay += 25) }}">Dit project was anders dan vorige projecten die ik heb gedaan.
+		Het was veel meer binnen de lijntjes kleuren en niet er buiten. Dit was een hele uitdaging en vond ik uiteindelijk
+		ook erg leerzaam om te doen. Zo heb ik geleerd om met voorgedefinieerd opdrachten aan de slag te gaan en met
+		vooronderzoeken te werken van een extern bedrijf.</p>
+	<p in:fly="{{ ...animation, delay: (delay += 25) }}">De motivatie dit semester kon beter. Het was niet constant
+		waardoor ik rond het midden van het project minder inzet heb getoond dan ik had gewild. Dit was ook terug te zien in
+		de peer feedback die ik heb gekregen van enkele groepsgenoten. Hier zal aan worden gewerkt in volgende projecten en
+		elders.</p>
+	<p in:fly="{{ ...animation, delay: (delay += 25) }}">Ik vond het verder wel lastig dat er niks werd gedaan met
+		programmeren dit project. Wellicht was dit een reden die meespeelde bij mijn motivatie. Verder vond ik het wel
+		leerzaam om eens verder in het andere gedeelte van het maken van een platform te zitten. Hier heb ik weer diverse
+		technieken geleerd zoals analyses maken. Eerst zag ik de meerwaarde niet in van sommige analyses, zoals de trend
+		analyse, maar na het, met veel tegenzin, gemaakt te hebben zag ik de meerwaarde er wel van in.</p>
 </main>
 
 <style>
